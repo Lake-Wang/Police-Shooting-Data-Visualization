@@ -1,0 +1,1531 @@
+,key,year,state_abbr,state,ethnicity,percentage
+0,2015AK,2015,AK,Alaska,Black,N/A
+1,2015AK,2015,AK,Alaska,White,0.0
+2,2015AK,2015,AK,Alaska,Asian,N/A
+3,2015AK,2015,AK,Alaska,Hispanic,N/A
+4,2015AK,2015,AK,Alaska,Native,0.0
+5,2015AK,2015,AK,Alaska,Other,N/A
+6,2015AL,2015,AL,Alabama,Black,0.16666666666666666
+7,2015AL,2015,AL,Alabama,White,0.09090909090909091
+8,2015AL,2015,AL,Alabama,Asian,N/A
+9,2015AL,2015,AL,Alabama,Hispanic,N/A
+10,2015AL,2015,AL,Alabama,Native,N/A
+11,2015AL,2015,AL,Alabama,Other,N/A
+12,2015AR,2015,AR,Arkansas,Black,1.0
+13,2015AR,2015,AR,Arkansas,White,0.0
+14,2015AR,2015,AR,Arkansas,Asian,N/A
+15,2015AR,2015,AR,Arkansas,Hispanic,N/A
+16,2015AR,2015,AR,Arkansas,Native,N/A
+17,2015AR,2015,AR,Arkansas,Other,N/A
+18,2015AZ,2015,AZ,Arizona,Black,0.0
+19,2015AZ,2015,AZ,Arizona,White,0.07407407407407407
+20,2015AZ,2015,AZ,Arizona,Asian,N/A
+21,2015AZ,2015,AZ,Arizona,Hispanic,0.08333333333333333
+22,2015AZ,2015,AZ,Arizona,Native,0.0
+23,2015AZ,2015,AZ,Arizona,Other,N/A
+24,2015CA,2015,CA,California,Black,0.14705882352941177
+25,2015CA,2015,CA,California,White,0.08771929824561403
+26,2015CA,2015,CA,California,Asian,0.0
+27,2015CA,2015,CA,California,Hispanic,0.13157894736842105
+28,2015CA,2015,CA,California,Native,N/A
+29,2015CA,2015,CA,California,Other,0.2857142857142857
+30,2015CO,2015,CO,Colorado,Black,0.2
+31,2015CO,2015,CO,Colorado,White,0.0
+32,2015CO,2015,CO,Colorado,Asian,0.0
+33,2015CO,2015,CO,Colorado,Hispanic,0.0
+34,2015CO,2015,CO,Colorado,Native,0.0
+35,2015CO,2015,CO,Colorado,Other,N/A
+36,2015CT,2015,CT,Connecticut,Black,N/A
+37,2015CT,2015,CT,Connecticut,White,0.0
+38,2015CT,2015,CT,Connecticut,Asian,N/A
+39,2015CT,2015,CT,Connecticut,Hispanic,N/A
+40,2015CT,2015,CT,Connecticut,Native,N/A
+41,2015CT,2015,CT,Connecticut,Other,N/A
+42,2015DC,2015,DC,District of Columbia,Black,0.25
+43,2015DC,2015,DC,District of Columbia,White,N/A
+44,2015DC,2015,DC,District of Columbia,Asian,N/A
+45,2015DC,2015,DC,District of Columbia,Hispanic,N/A
+46,2015DC,2015,DC,District of Columbia,Native,N/A
+47,2015DC,2015,DC,District of Columbia,Other,N/A
+48,2015DE,2015,DE,Delaware,Black,0.0
+49,2015DE,2015,DE,Delaware,White,0.0
+50,2015DE,2015,DE,Delaware,Asian,N/A
+51,2015DE,2015,DE,Delaware,Hispanic,N/A
+52,2015DE,2015,DE,Delaware,Native,N/A
+53,2015DE,2015,DE,Delaware,Other,N/A
+54,2015FL,2015,FL,Florida,Black,0.23076923076923078
+55,2015FL,2015,FL,Florida,White,0.04
+56,2015FL,2015,FL,Florida,Asian,N/A
+57,2015FL,2015,FL,Florida,Hispanic,0.0
+58,2015FL,2015,FL,Florida,Native,N/A
+59,2015FL,2015,FL,Florida,Other,1.0
+60,2015GA,2015,GA,Georgia,Black,0.1
+61,2015GA,2015,GA,Georgia,White,0.11764705882352941
+62,2015GA,2015,GA,Georgia,Asian,N/A
+63,2015GA,2015,GA,Georgia,Hispanic,N/A
+64,2015GA,2015,GA,Georgia,Native,N/A
+65,2015GA,2015,GA,Georgia,Other,N/A
+66,2015HI,2015,HI,Hawaii,Black,0.0
+67,2015HI,2015,HI,Hawaii,White,N/A
+68,2015HI,2015,HI,Hawaii,Asian,N/A
+69,2015HI,2015,HI,Hawaii,Hispanic,N/A
+70,2015HI,2015,HI,Hawaii,Native,N/A
+71,2015HI,2015,HI,Hawaii,Other,0.0
+72,2015IA,2015,IA,Iowa,Black,N/A
+73,2015IA,2015,IA,Iowa,White,0.4
+74,2015IA,2015,IA,Iowa,Asian,N/A
+75,2015IA,2015,IA,Iowa,Hispanic,N/A
+76,2015IA,2015,IA,Iowa,Native,N/A
+77,2015IA,2015,IA,Iowa,Other,N/A
+78,2015ID,2015,ID,Idaho,Black,N/A
+79,2015ID,2015,ID,Idaho,White,0.0
+80,2015ID,2015,ID,Idaho,Asian,N/A
+81,2015ID,2015,ID,Idaho,Hispanic,0.0
+82,2015ID,2015,ID,Idaho,Native,N/A
+83,2015ID,2015,ID,Idaho,Other,N/A
+84,2015IL,2015,IL,Illinois,Black,0.07692307692307693
+85,2015IL,2015,IL,Illinois,White,0.0
+86,2015IL,2015,IL,Illinois,Asian,N/A
+87,2015IL,2015,IL,Illinois,Hispanic,0.3333333333333333
+88,2015IL,2015,IL,Illinois,Native,N/A
+89,2015IL,2015,IL,Illinois,Other,N/A
+90,2015IN,2015,IN,Indiana,Black,0.0
+91,2015IN,2015,IN,Indiana,White,0.2727272727272727
+92,2015IN,2015,IN,Indiana,Asian,N/A
+93,2015IN,2015,IN,Indiana,Hispanic,0.0
+94,2015IN,2015,IN,Indiana,Native,N/A
+95,2015IN,2015,IN,Indiana,Other,N/A
+96,2015KS,2015,KS,Kansas,Black,N/A
+97,2015KS,2015,KS,Kansas,White,0.0
+98,2015KS,2015,KS,Kansas,Asian,N/A
+99,2015KS,2015,KS,Kansas,Hispanic,0.5
+100,2015KS,2015,KS,Kansas,Native,N/A
+101,2015KS,2015,KS,Kansas,Other,N/A
+102,2015KY,2015,KY,Kentucky,Black,0.0
+103,2015KY,2015,KY,Kentucky,White,0.0
+104,2015KY,2015,KY,Kentucky,Asian,N/A
+105,2015KY,2015,KY,Kentucky,Hispanic,0.0
+106,2015KY,2015,KY,Kentucky,Native,N/A
+107,2015KY,2015,KY,Kentucky,Other,N/A
+108,2015LA,2015,LA,Louisiana,Black,0.07142857142857142
+109,2015LA,2015,LA,Louisiana,White,0.09090909090909091
+110,2015LA,2015,LA,Louisiana,Asian,0.0
+111,2015LA,2015,LA,Louisiana,Hispanic,N/A
+112,2015LA,2015,LA,Louisiana,Native,N/A
+113,2015LA,2015,LA,Louisiana,Other,N/A
+114,2015MA,2015,MA,Massachusetts,Black,0.0
+115,2015MA,2015,MA,Massachusetts,White,0.0
+116,2015MA,2015,MA,Massachusetts,Asian,N/A
+117,2015MA,2015,MA,Massachusetts,Hispanic,0.0
+118,2015MA,2015,MA,Massachusetts,Native,N/A
+119,2015MA,2015,MA,Massachusetts,Other,N/A
+120,2015MD,2015,MD,Maryland,Black,0.25
+121,2015MD,2015,MD,Maryland,White,0.0
+122,2015MD,2015,MD,Maryland,Asian,N/A
+123,2015MD,2015,MD,Maryland,Hispanic,N/A
+124,2015MD,2015,MD,Maryland,Native,N/A
+125,2015MD,2015,MD,Maryland,Other,N/A
+126,2015ME,2015,ME,Maine,Black,N/A
+127,2015ME,2015,ME,Maine,White,0.0
+128,2015ME,2015,ME,Maine,Asian,N/A
+129,2015ME,2015,ME,Maine,Hispanic,N/A
+130,2015ME,2015,ME,Maine,Native,N/A
+131,2015ME,2015,ME,Maine,Other,N/A
+132,2015MI,2015,MI,Michigan,Black,0.16666666666666666
+133,2015MI,2015,MI,Michigan,White,0.1
+134,2015MI,2015,MI,Michigan,Asian,N/A
+135,2015MI,2015,MI,Michigan,Hispanic,N/A
+136,2015MI,2015,MI,Michigan,Native,N/A
+137,2015MI,2015,MI,Michigan,Other,N/A
+138,2015MN,2015,MN,Minnesota,Black,0.3333333333333333
+139,2015MN,2015,MN,Minnesota,White,0.25
+140,2015MN,2015,MN,Minnesota,Asian,N/A
+141,2015MN,2015,MN,Minnesota,Hispanic,N/A
+142,2015MN,2015,MN,Minnesota,Native,N/A
+143,2015MN,2015,MN,Minnesota,Other,0.0
+144,2015MO,2015,MO,Missouri,Black,0.125
+145,2015MO,2015,MO,Missouri,White,0.07692307692307693
+146,2015MO,2015,MO,Missouri,Asian,N/A
+147,2015MO,2015,MO,Missouri,Hispanic,N/A
+148,2015MO,2015,MO,Missouri,Native,N/A
+149,2015MO,2015,MO,Missouri,Other,N/A
+150,2015MS,2015,MS,Mississippi,Black,0.0
+151,2015MS,2015,MS,Mississippi,White,0.14285714285714285
+152,2015MS,2015,MS,Mississippi,Asian,N/A
+153,2015MS,2015,MS,Mississippi,Hispanic,N/A
+154,2015MS,2015,MS,Mississippi,Native,N/A
+155,2015MS,2015,MS,Mississippi,Other,N/A
+156,2015MT,2015,MT,Montana,Black,N/A
+157,2015MT,2015,MT,Montana,White,0.0
+158,2015MT,2015,MT,Montana,Asian,N/A
+159,2015MT,2015,MT,Montana,Hispanic,N/A
+160,2015MT,2015,MT,Montana,Native,N/A
+161,2015MT,2015,MT,Montana,Other,N/A
+162,2015NC,2015,NC,North Carolina,Black,0.0
+163,2015NC,2015,NC,North Carolina,White,0.0
+164,2015NC,2015,NC,North Carolina,Asian,N/A
+165,2015NC,2015,NC,North Carolina,Hispanic,N/A
+166,2015NC,2015,NC,North Carolina,Native,N/A
+167,2015NC,2015,NC,North Carolina,Other,N/A
+168,2015ND,2015,ND,North Dakota,Black,N/A
+169,2015ND,2015,ND,North Dakota,White,N/A
+170,2015ND,2015,ND,North Dakota,Asian,N/A
+171,2015ND,2015,ND,North Dakota,Hispanic,N/A
+172,2015ND,2015,ND,North Dakota,Native,0.0
+173,2015ND,2015,ND,North Dakota,Other,N/A
+174,2015NE,2015,NE,Nebraska,Black,0.0
+175,2015NE,2015,NE,Nebraska,White,0.14285714285714285
+176,2015NE,2015,NE,Nebraska,Asian,N/A
+177,2015NE,2015,NE,Nebraska,Hispanic,N/A
+178,2015NE,2015,NE,Nebraska,Native,N/A
+179,2015NE,2015,NE,Nebraska,Other,N/A
+180,2015NH,2015,NH,New Hampshire,Black,N/A
+181,2015NH,2015,NH,New Hampshire,White,0.0
+182,2015NH,2015,NH,New Hampshire,Asian,N/A
+183,2015NH,2015,NH,New Hampshire,Hispanic,N/A
+184,2015NH,2015,NH,New Hampshire,Native,N/A
+185,2015NH,2015,NH,New Hampshire,Other,N/A
+186,2015NJ,2015,NJ,New Jersey,Black,0.0
+187,2015NJ,2015,NJ,New Jersey,White,0.0
+188,2015NJ,2015,NJ,New Jersey,Asian,N/A
+189,2015NJ,2015,NJ,New Jersey,Hispanic,0.0
+190,2015NJ,2015,NJ,New Jersey,Native,N/A
+191,2015NJ,2015,NJ,New Jersey,Other,N/A
+192,2015NM,2015,NM,New Mexico,Black,N/A
+193,2015NM,2015,NM,New Mexico,White,0.0
+194,2015NM,2015,NM,New Mexico,Asian,N/A
+195,2015NM,2015,NM,New Mexico,Hispanic,0.09090909090909091
+196,2015NM,2015,NM,New Mexico,Native,N/A
+197,2015NM,2015,NM,New Mexico,Other,N/A
+198,2015NV,2015,NV,Nevada,Black,0.3333333333333333
+199,2015NV,2015,NV,Nevada,White,0.0
+200,2015NV,2015,NV,Nevada,Asian,N/A
+201,2015NV,2015,NV,Nevada,Hispanic,0.0
+202,2015NV,2015,NV,Nevada,Native,N/A
+203,2015NV,2015,NV,Nevada,Other,N/A
+204,2015NY,2015,NY,New York,Black,0.375
+205,2015NY,2015,NY,New York,White,0.0
+206,2015NY,2015,NY,New York,Asian,0.0
+207,2015NY,2015,NY,New York,Hispanic,N/A
+208,2015NY,2015,NY,New York,Native,N/A
+209,2015NY,2015,NY,New York,Other,N/A
+210,2015OH,2015,OH,Ohio,Black,0.15384615384615385
+211,2015OH,2015,OH,Ohio,White,0.14285714285714285
+212,2015OH,2015,OH,Ohio,Asian,N/A
+213,2015OH,2015,OH,Ohio,Hispanic,N/A
+214,2015OH,2015,OH,Ohio,Native,N/A
+215,2015OH,2015,OH,Ohio,Other,1.0
+216,2015OK,2015,OK,Oklahoma,Black,0.1111111111111111
+217,2015OK,2015,OK,Oklahoma,White,0.15
+218,2015OK,2015,OK,Oklahoma,Asian,N/A
+219,2015OK,2015,OK,Oklahoma,Hispanic,0.0
+220,2015OK,2015,OK,Oklahoma,Native,N/A
+221,2015OK,2015,OK,Oklahoma,Other,N/A
+222,2015OR,2015,OR,Oregon,Black,0.0
+223,2015OR,2015,OR,Oregon,White,0.0
+224,2015OR,2015,OR,Oregon,Asian,N/A
+225,2015OR,2015,OR,Oregon,Hispanic,N/A
+226,2015OR,2015,OR,Oregon,Native,N/A
+227,2015OR,2015,OR,Oregon,Other,N/A
+228,2015PA,2015,PA,Pennsylvania,Black,0.0
+229,2015PA,2015,PA,Pennsylvania,White,0.125
+230,2015PA,2015,PA,Pennsylvania,Asian,N/A
+231,2015PA,2015,PA,Pennsylvania,Hispanic,1.0
+232,2015PA,2015,PA,Pennsylvania,Native,N/A
+233,2015PA,2015,PA,Pennsylvania,Other,N/A
+234,2015RI,2015,RI,Rhode Island,Black,N/A
+235,2015RI,2015,RI,Rhode Island,White,N/A
+236,2015RI,2015,RI,Rhode Island,Asian,N/A
+237,2015RI,2015,RI,Rhode Island,Hispanic,N/A
+238,2015RI,2015,RI,Rhode Island,Native,N/A
+239,2015RI,2015,RI,Rhode Island,Other,N/A
+240,2015SC,2015,SC,South Carolina,Black,0.1111111111111111
+241,2015SC,2015,SC,South Carolina,White,0.0
+242,2015SC,2015,SC,South Carolina,Asian,N/A
+243,2015SC,2015,SC,South Carolina,Hispanic,N/A
+244,2015SC,2015,SC,South Carolina,Native,N/A
+245,2015SC,2015,SC,South Carolina,Other,N/A
+246,2015SD,2015,SD,South Dakota,Black,N/A
+247,2015SD,2015,SD,South Dakota,White,0.0
+248,2015SD,2015,SD,South Dakota,Asian,N/A
+249,2015SD,2015,SD,South Dakota,Hispanic,N/A
+250,2015SD,2015,SD,South Dakota,Native,0.0
+251,2015SD,2015,SD,South Dakota,Other,N/A
+252,2015TN,2015,TN,Tennessee,Black,0.25
+253,2015TN,2015,TN,Tennessee,White,0.0
+254,2015TN,2015,TN,Tennessee,Asian,N/A
+255,2015TN,2015,TN,Tennessee,Hispanic,0.0
+256,2015TN,2015,TN,Tennessee,Native,N/A
+257,2015TN,2015,TN,Tennessee,Other,0.0
+258,2015TX,2015,TX,Texas,Black,0.10526315789473684
+259,2015TX,2015,TX,Texas,White,0.043478260869565216
+260,2015TX,2015,TX,Texas,Asian,0.0
+261,2015TX,2015,TX,Texas,Hispanic,0.0625
+262,2015TX,2015,TX,Texas,Native,N/A
+263,2015TX,2015,TX,Texas,Other,0.0
+264,2015UT,2015,UT,Utah,Black,N/A
+265,2015UT,2015,UT,Utah,White,0.0
+266,2015UT,2015,UT,Utah,Asian,N/A
+267,2015UT,2015,UT,Utah,Hispanic,N/A
+268,2015UT,2015,UT,Utah,Native,N/A
+269,2015UT,2015,UT,Utah,Other,0.0
+270,2015VA,2015,VA,Virginia,Black,0.2
+271,2015VA,2015,VA,Virginia,White,0.0
+272,2015VA,2015,VA,Virginia,Asian,N/A
+273,2015VA,2015,VA,Virginia,Hispanic,1.0
+274,2015VA,2015,VA,Virginia,Native,N/A
+275,2015VA,2015,VA,Virginia,Other,N/A
+276,2015VT,2015,VT,Vermont,Black,N/A
+277,2015VT,2015,VT,Vermont,White,0.0
+278,2015VT,2015,VT,Vermont,Asian,N/A
+279,2015VT,2015,VT,Vermont,Hispanic,N/A
+280,2015VT,2015,VT,Vermont,Native,N/A
+281,2015VT,2015,VT,Vermont,Other,N/A
+282,2015WA,2015,WA,Washington,Black,N/A
+283,2015WA,2015,WA,Washington,White,0.08333333333333333
+284,2015WA,2015,WA,Washington,Asian,0.0
+285,2015WA,2015,WA,Washington,Hispanic,1.0
+286,2015WA,2015,WA,Washington,Native,1.0
+287,2015WA,2015,WA,Washington,Other,0.0
+288,2015WI,2015,WI,Wisconsin,Black,0.5
+289,2015WI,2015,WI,Wisconsin,White,0.0
+290,2015WI,2015,WI,Wisconsin,Asian,N/A
+291,2015WI,2015,WI,Wisconsin,Hispanic,0.0
+292,2015WI,2015,WI,Wisconsin,Native,N/A
+293,2015WI,2015,WI,Wisconsin,Other,N/A
+294,2015WV,2015,WV,West Virginia,Black,0.0
+295,2015WV,2015,WV,West Virginia,White,0.0
+296,2015WV,2015,WV,West Virginia,Asian,N/A
+297,2015WV,2015,WV,West Virginia,Hispanic,N/A
+298,2015WV,2015,WV,West Virginia,Native,N/A
+299,2015WV,2015,WV,West Virginia,Other,N/A
+300,2015WY,2015,WY,Wyoming,Black,N/A
+301,2015WY,2015,WY,Wyoming,White,0.0
+302,2015WY,2015,WY,Wyoming,Asian,N/A
+303,2015WY,2015,WY,Wyoming,Hispanic,N/A
+304,2015WY,2015,WY,Wyoming,Native,0.0
+305,2015WY,2015,WY,Wyoming,Other,N/A
+306,2016AK,2016,AK,Alaska,Black,N/A
+307,2016AK,2016,AK,Alaska,White,0.0
+308,2016AK,2016,AK,Alaska,Asian,N/A
+309,2016AK,2016,AK,Alaska,Hispanic,N/A
+310,2016AK,2016,AK,Alaska,Native,0.0
+311,2016AK,2016,AK,Alaska,Other,N/A
+312,2016AL,2016,AL,Alabama,Black,0.0
+313,2016AL,2016,AL,Alabama,White,0.0
+314,2016AL,2016,AL,Alabama,Asian,N/A
+315,2016AL,2016,AL,Alabama,Hispanic,N/A
+316,2016AL,2016,AL,Alabama,Native,N/A
+317,2016AL,2016,AL,Alabama,Other,N/A
+318,2016AR,2016,AR,Arkansas,Black,0.0
+319,2016AR,2016,AR,Arkansas,White,0.0
+320,2016AR,2016,AR,Arkansas,Asian,N/A
+321,2016AR,2016,AR,Arkansas,Hispanic,N/A
+322,2016AR,2016,AR,Arkansas,Native,N/A
+323,2016AR,2016,AR,Arkansas,Other,N/A
+324,2016AZ,2016,AZ,Arizona,Black,0.5
+325,2016AZ,2016,AZ,Arizona,White,0.05
+326,2016AZ,2016,AZ,Arizona,Asian,N/A
+327,2016AZ,2016,AZ,Arizona,Hispanic,0.11764705882352941
+328,2016AZ,2016,AZ,Arizona,Native,0.0
+329,2016AZ,2016,AZ,Arizona,Other,N/A
+330,2016CA,2016,CA,California,Black,0.14285714285714285
+331,2016CA,2016,CA,California,White,0.046511627906976744
+332,2016CA,2016,CA,California,Asian,0.0
+333,2016CA,2016,CA,California,Hispanic,0.06896551724137931
+334,2016CA,2016,CA,California,Native,N/A
+335,2016CA,2016,CA,California,Other,N/A
+336,2016CO,2016,CO,Colorado,Black,0.0
+337,2016CO,2016,CO,Colorado,White,0.058823529411764705
+338,2016CO,2016,CO,Colorado,Asian,N/A
+339,2016CO,2016,CO,Colorado,Hispanic,0.0
+340,2016CO,2016,CO,Colorado,Native,N/A
+341,2016CO,2016,CO,Colorado,Other,N/A
+342,2016CT,2016,CT,Connecticut,Black,N/A
+343,2016CT,2016,CT,Connecticut,White,0.0
+344,2016CT,2016,CT,Connecticut,Asian,N/A
+345,2016CT,2016,CT,Connecticut,Hispanic,0.0
+346,2016CT,2016,CT,Connecticut,Native,N/A
+347,2016CT,2016,CT,Connecticut,Other,N/A
+348,2016DC,2016,DC,District of Columbia,Black,0.0
+349,2016DC,2016,DC,District of Columbia,White,N/A
+350,2016DC,2016,DC,District of Columbia,Asian,N/A
+351,2016DC,2016,DC,District of Columbia,Hispanic,N/A
+352,2016DC,2016,DC,District of Columbia,Native,N/A
+353,2016DC,2016,DC,District of Columbia,Other,N/A
+354,2016DE,2016,DE,Delaware,Black,N/A
+355,2016DE,2016,DE,Delaware,White,0.0
+356,2016DE,2016,DE,Delaware,Asian,N/A
+357,2016DE,2016,DE,Delaware,Hispanic,N/A
+358,2016DE,2016,DE,Delaware,Native,N/A
+359,2016DE,2016,DE,Delaware,Other,N/A
+360,2016FL,2016,FL,Florida,Black,0.1875
+361,2016FL,2016,FL,Florida,White,0.0
+362,2016FL,2016,FL,Florida,Asian,0.0
+363,2016FL,2016,FL,Florida,Hispanic,0.0
+364,2016FL,2016,FL,Florida,Native,N/A
+365,2016FL,2016,FL,Florida,Other,0.0
+366,2016GA,2016,GA,Georgia,Black,0.2
+367,2016GA,2016,GA,Georgia,White,0.0
+368,2016GA,2016,GA,Georgia,Asian,0.0
+369,2016GA,2016,GA,Georgia,Hispanic,0.2
+370,2016GA,2016,GA,Georgia,Native,N/A
+371,2016GA,2016,GA,Georgia,Other,N/A
+372,2016HI,2016,HI,Hawaii,Black,N/A
+373,2016HI,2016,HI,Hawaii,White,N/A
+374,2016HI,2016,HI,Hawaii,Asian,0.0
+375,2016HI,2016,HI,Hawaii,Hispanic,N/A
+376,2016HI,2016,HI,Hawaii,Native,N/A
+377,2016HI,2016,HI,Hawaii,Other,0.0
+378,2016IA,2016,IA,Iowa,Black,0.0
+379,2016IA,2016,IA,Iowa,White,0.0
+380,2016IA,2016,IA,Iowa,Asian,N/A
+381,2016IA,2016,IA,Iowa,Hispanic,N/A
+382,2016IA,2016,IA,Iowa,Native,N/A
+383,2016IA,2016,IA,Iowa,Other,N/A
+384,2016ID,2016,ID,Idaho,Black,N/A
+385,2016ID,2016,ID,Idaho,White,0.0
+386,2016ID,2016,ID,Idaho,Asian,N/A
+387,2016ID,2016,ID,Idaho,Hispanic,0.0
+388,2016ID,2016,ID,Idaho,Native,N/A
+389,2016ID,2016,ID,Idaho,Other,N/A
+390,2016IL,2016,IL,Illinois,Black,0.0
+391,2016IL,2016,IL,Illinois,White,0.0
+392,2016IL,2016,IL,Illinois,Asian,N/A
+393,2016IL,2016,IL,Illinois,Hispanic,0.0
+394,2016IL,2016,IL,Illinois,Native,N/A
+395,2016IL,2016,IL,Illinois,Other,N/A
+396,2016IN,2016,IN,Indiana,Black,0.25
+397,2016IN,2016,IN,Indiana,White,0.0
+398,2016IN,2016,IN,Indiana,Asian,N/A
+399,2016IN,2016,IN,Indiana,Hispanic,0.0
+400,2016IN,2016,IN,Indiana,Native,N/A
+401,2016IN,2016,IN,Indiana,Other,N/A
+402,2016KS,2016,KS,Kansas,Black,0.0
+403,2016KS,2016,KS,Kansas,White,0.2222222222222222
+404,2016KS,2016,KS,Kansas,Asian,N/A
+405,2016KS,2016,KS,Kansas,Hispanic,N/A
+406,2016KS,2016,KS,Kansas,Native,N/A
+407,2016KS,2016,KS,Kansas,Other,N/A
+408,2016KY,2016,KY,Kentucky,Black,0.0
+409,2016KY,2016,KY,Kentucky,White,0.06666666666666667
+410,2016KY,2016,KY,Kentucky,Asian,N/A
+411,2016KY,2016,KY,Kentucky,Hispanic,0.0
+412,2016KY,2016,KY,Kentucky,Native,N/A
+413,2016KY,2016,KY,Kentucky,Other,N/A
+414,2016LA,2016,LA,Louisiana,Black,0.0
+415,2016LA,2016,LA,Louisiana,White,0.0
+416,2016LA,2016,LA,Louisiana,Asian,N/A
+417,2016LA,2016,LA,Louisiana,Hispanic,N/A
+418,2016LA,2016,LA,Louisiana,Native,N/A
+419,2016LA,2016,LA,Louisiana,Other,N/A
+420,2016MA,2016,MA,Massachusetts,Black,0.0
+421,2016MA,2016,MA,Massachusetts,White,0.0
+422,2016MA,2016,MA,Massachusetts,Asian,N/A
+423,2016MA,2016,MA,Massachusetts,Hispanic,0.0
+424,2016MA,2016,MA,Massachusetts,Native,N/A
+425,2016MA,2016,MA,Massachusetts,Other,N/A
+426,2016MD,2016,MD,Maryland,Black,0.0
+427,2016MD,2016,MD,Maryland,White,0.2
+428,2016MD,2016,MD,Maryland,Asian,N/A
+429,2016MD,2016,MD,Maryland,Hispanic,N/A
+430,2016MD,2016,MD,Maryland,Native,N/A
+431,2016MD,2016,MD,Maryland,Other,N/A
+432,2016ME,2016,ME,Maine,Black,N/A
+433,2016ME,2016,ME,Maine,White,0.0
+434,2016ME,2016,ME,Maine,Asian,N/A
+435,2016ME,2016,ME,Maine,Hispanic,N/A
+436,2016ME,2016,ME,Maine,Native,N/A
+437,2016ME,2016,ME,Maine,Other,0.0
+438,2016MI,2016,MI,Michigan,Black,0.0
+439,2016MI,2016,MI,Michigan,White,0.0
+440,2016MI,2016,MI,Michigan,Asian,N/A
+441,2016MI,2016,MI,Michigan,Hispanic,0.0
+442,2016MI,2016,MI,Michigan,Native,N/A
+443,2016MI,2016,MI,Michigan,Other,N/A
+444,2016MN,2016,MN,Minnesota,Black,0.0
+445,2016MN,2016,MN,Minnesota,White,0.1111111111111111
+446,2016MN,2016,MN,Minnesota,Asian,0.0
+447,2016MN,2016,MN,Minnesota,Hispanic,0.0
+448,2016MN,2016,MN,Minnesota,Native,N/A
+449,2016MN,2016,MN,Minnesota,Other,0.0
+450,2016MO,2016,MO,Missouri,Black,0.0
+451,2016MO,2016,MO,Missouri,White,0.0
+452,2016MO,2016,MO,Missouri,Asian,N/A
+453,2016MO,2016,MO,Missouri,Hispanic,0.0
+454,2016MO,2016,MO,Missouri,Native,N/A
+455,2016MO,2016,MO,Missouri,Other,N/A
+456,2016MS,2016,MS,Mississippi,Black,0.25
+457,2016MS,2016,MS,Mississippi,White,0.25
+458,2016MS,2016,MS,Mississippi,Asian,N/A
+459,2016MS,2016,MS,Mississippi,Hispanic,N/A
+460,2016MS,2016,MS,Mississippi,Native,N/A
+461,2016MS,2016,MS,Mississippi,Other,N/A
+462,2016MT,2016,MT,Montana,Black,N/A
+463,2016MT,2016,MT,Montana,White,0.0
+464,2016MT,2016,MT,Montana,Asian,N/A
+465,2016MT,2016,MT,Montana,Hispanic,N/A
+466,2016MT,2016,MT,Montana,Native,N/A
+467,2016MT,2016,MT,Montana,Other,N/A
+468,2016NC,2016,NC,North Carolina,Black,0.0
+469,2016NC,2016,NC,North Carolina,White,0.11764705882352941
+470,2016NC,2016,NC,North Carolina,Asian,0.0
+471,2016NC,2016,NC,North Carolina,Hispanic,0.0
+472,2016NC,2016,NC,North Carolina,Native,N/A
+473,2016NC,2016,NC,North Carolina,Other,N/A
+474,2016ND,2016,ND,North Dakota,Black,N/A
+475,2016ND,2016,ND,North Dakota,White,1.0
+476,2016ND,2016,ND,North Dakota,Asian,N/A
+477,2016ND,2016,ND,North Dakota,Hispanic,N/A
+478,2016ND,2016,ND,North Dakota,Native,N/A
+479,2016ND,2016,ND,North Dakota,Other,N/A
+480,2016NE,2016,NE,Nebraska,Black,0.0
+481,2016NE,2016,NE,Nebraska,White,0.2
+482,2016NE,2016,NE,Nebraska,Asian,N/A
+483,2016NE,2016,NE,Nebraska,Hispanic,N/A
+484,2016NE,2016,NE,Nebraska,Native,N/A
+485,2016NE,2016,NE,Nebraska,Other,N/A
+486,2016NH,2016,NH,New Hampshire,Black,N/A
+487,2016NH,2016,NH,New Hampshire,White,0.0
+488,2016NH,2016,NH,New Hampshire,Asian,N/A
+489,2016NH,2016,NH,New Hampshire,Hispanic,N/A
+490,2016NH,2016,NH,New Hampshire,Native,N/A
+491,2016NH,2016,NH,New Hampshire,Other,N/A
+492,2016NJ,2016,NJ,New Jersey,Black,0.0
+493,2016NJ,2016,NJ,New Jersey,White,0.0
+494,2016NJ,2016,NJ,New Jersey,Asian,0.0
+495,2016NJ,2016,NJ,New Jersey,Hispanic,N/A
+496,2016NJ,2016,NJ,New Jersey,Native,N/A
+497,2016NJ,2016,NJ,New Jersey,Other,N/A
+498,2016NM,2016,NM,New Mexico,Black,N/A
+499,2016NM,2016,NM,New Mexico,White,0.0
+500,2016NM,2016,NM,New Mexico,Asian,N/A
+501,2016NM,2016,NM,New Mexico,Hispanic,0.0
+502,2016NM,2016,NM,New Mexico,Native,0.0
+503,2016NM,2016,NM,New Mexico,Other,N/A
+504,2016NV,2016,NV,Nevada,Black,0.0
+505,2016NV,2016,NV,Nevada,White,0.0
+506,2016NV,2016,NV,Nevada,Asian,N/A
+507,2016NV,2016,NV,Nevada,Hispanic,0.14285714285714285
+508,2016NV,2016,NV,Nevada,Native,N/A
+509,2016NV,2016,NV,Nevada,Other,N/A
+510,2016NY,2016,NY,New York,Black,0.0
+511,2016NY,2016,NY,New York,White,0.0
+512,2016NY,2016,NY,New York,Asian,N/A
+513,2016NY,2016,NY,New York,Hispanic,0.0
+514,2016NY,2016,NY,New York,Native,N/A
+515,2016NY,2016,NY,New York,Other,N/A
+516,2016OH,2016,OH,Ohio,Black,0.0
+517,2016OH,2016,OH,Ohio,White,0.0
+518,2016OH,2016,OH,Ohio,Asian,0.0
+519,2016OH,2016,OH,Ohio,Hispanic,N/A
+520,2016OH,2016,OH,Ohio,Native,N/A
+521,2016OH,2016,OH,Ohio,Other,0.0
+522,2016OK,2016,OK,Oklahoma,Black,0.25
+523,2016OK,2016,OK,Oklahoma,White,0.13333333333333333
+524,2016OK,2016,OK,Oklahoma,Asian,N/A
+525,2016OK,2016,OK,Oklahoma,Hispanic,0.0
+526,2016OK,2016,OK,Oklahoma,Native,N/A
+527,2016OK,2016,OK,Oklahoma,Other,N/A
+528,2016OR,2016,OR,Oregon,Black,0.0
+529,2016OR,2016,OR,Oregon,White,0.07692307692307693
+530,2016OR,2016,OR,Oregon,Asian,N/A
+531,2016OR,2016,OR,Oregon,Hispanic,N/A
+532,2016OR,2016,OR,Oregon,Native,N/A
+533,2016OR,2016,OR,Oregon,Other,N/A
+534,2016PA,2016,PA,Pennsylvania,Black,0.1
+535,2016PA,2016,PA,Pennsylvania,White,0.1111111111111111
+536,2016PA,2016,PA,Pennsylvania,Asian,N/A
+537,2016PA,2016,PA,Pennsylvania,Hispanic,N/A
+538,2016PA,2016,PA,Pennsylvania,Native,N/A
+539,2016PA,2016,PA,Pennsylvania,Other,N/A
+540,2016RI,2016,RI,Rhode Island,Black,0.0
+541,2016RI,2016,RI,Rhode Island,White,N/A
+542,2016RI,2016,RI,Rhode Island,Asian,N/A
+543,2016RI,2016,RI,Rhode Island,Hispanic,0.0
+544,2016RI,2016,RI,Rhode Island,Native,N/A
+545,2016RI,2016,RI,Rhode Island,Other,N/A
+546,2016SC,2016,SC,South Carolina,Black,0.0
+547,2016SC,2016,SC,South Carolina,White,0.0
+548,2016SC,2016,SC,South Carolina,Asian,N/A
+549,2016SC,2016,SC,South Carolina,Hispanic,N/A
+550,2016SC,2016,SC,South Carolina,Native,N/A
+551,2016SC,2016,SC,South Carolina,Other,N/A
+552,2016SD,2016,SD,South Dakota,Black,N/A
+553,2016SD,2016,SD,South Dakota,White,0.3333333333333333
+554,2016SD,2016,SD,South Dakota,Asian,N/A
+555,2016SD,2016,SD,South Dakota,Hispanic,N/A
+556,2016SD,2016,SD,South Dakota,Native,0.0
+557,2016SD,2016,SD,South Dakota,Other,N/A
+558,2016TN,2016,TN,Tennessee,Black,0.0
+559,2016TN,2016,TN,Tennessee,White,0.0625
+560,2016TN,2016,TN,Tennessee,Asian,0.0
+561,2016TN,2016,TN,Tennessee,Hispanic,0.0
+562,2016TN,2016,TN,Tennessee,Native,N/A
+563,2016TN,2016,TN,Tennessee,Other,N/A
+564,2016TX,2016,TX,Texas,Black,0.23529411764705882
+565,2016TX,2016,TX,Texas,White,0.05405405405405406
+566,2016TX,2016,TX,Texas,Asian,N/A
+567,2016TX,2016,TX,Texas,Hispanic,0.05
+568,2016TX,2016,TX,Texas,Native,0.0
+569,2016TX,2016,TX,Texas,Other,0.0
+570,2016UT,2016,UT,Utah,Black,N/A
+571,2016UT,2016,UT,Utah,White,0.0
+572,2016UT,2016,UT,Utah,Asian,N/A
+573,2016UT,2016,UT,Utah,Hispanic,N/A
+574,2016UT,2016,UT,Utah,Native,N/A
+575,2016UT,2016,UT,Utah,Other,N/A
+576,2016VA,2016,VA,Virginia,Black,0.125
+577,2016VA,2016,VA,Virginia,White,0.0
+578,2016VA,2016,VA,Virginia,Asian,N/A
+579,2016VA,2016,VA,Virginia,Hispanic,0.0
+580,2016VA,2016,VA,Virginia,Native,N/A
+581,2016VA,2016,VA,Virginia,Other,N/A
+582,2016VT,2016,VT,Vermont,Black,N/A
+583,2016VT,2016,VT,Vermont,White,0.0
+584,2016VT,2016,VT,Vermont,Asian,N/A
+585,2016VT,2016,VT,Vermont,Hispanic,N/A
+586,2016VT,2016,VT,Vermont,Native,1.0
+587,2016VT,2016,VT,Vermont,Other,N/A
+588,2016WA,2016,WA,Washington,Black,0.0
+589,2016WA,2016,WA,Washington,White,0.0
+590,2016WA,2016,WA,Washington,Asian,0.0
+591,2016WA,2016,WA,Washington,Hispanic,0.0
+592,2016WA,2016,WA,Washington,Native,0.0
+593,2016WA,2016,WA,Washington,Other,N/A
+594,2016WI,2016,WI,Wisconsin,Black,0.2
+595,2016WI,2016,WI,Wisconsin,White,0.0
+596,2016WI,2016,WI,Wisconsin,Asian,N/A
+597,2016WI,2016,WI,Wisconsin,Hispanic,N/A
+598,2016WI,2016,WI,Wisconsin,Native,N/A
+599,2016WI,2016,WI,Wisconsin,Other,N/A
+600,2016WV,2016,WV,West Virginia,Black,0.0
+601,2016WV,2016,WV,West Virginia,White,0.0
+602,2016WV,2016,WV,West Virginia,Asian,N/A
+603,2016WV,2016,WV,West Virginia,Hispanic,N/A
+604,2016WV,2016,WV,West Virginia,Native,N/A
+605,2016WV,2016,WV,West Virginia,Other,N/A
+606,2016WY,2016,WY,Wyoming,Black,N/A
+607,2016WY,2016,WY,Wyoming,White,0.0
+608,2016WY,2016,WY,Wyoming,Asian,N/A
+609,2016WY,2016,WY,Wyoming,Hispanic,0.0
+610,2016WY,2016,WY,Wyoming,Native,N/A
+611,2016WY,2016,WY,Wyoming,Other,N/A
+612,2017AK,2017,AK,Alaska,Black,0.0
+613,2017AK,2017,AK,Alaska,White,0.2
+614,2017AK,2017,AK,Alaska,Asian,N/A
+615,2017AK,2017,AK,Alaska,Hispanic,N/A
+616,2017AK,2017,AK,Alaska,Native,0.0
+617,2017AK,2017,AK,Alaska,Other,N/A
+618,2017AL,2017,AL,Alabama,Black,0.16666666666666666
+619,2017AL,2017,AL,Alabama,White,0.07142857142857142
+620,2017AL,2017,AL,Alabama,Asian,N/A
+621,2017AL,2017,AL,Alabama,Hispanic,0.0
+622,2017AL,2017,AL,Alabama,Native,N/A
+623,2017AL,2017,AL,Alabama,Other,N/A
+624,2017AR,2017,AR,Arkansas,Black,0.0
+625,2017AR,2017,AR,Arkansas,White,0.0
+626,2017AR,2017,AR,Arkansas,Asian,0.0
+627,2017AR,2017,AR,Arkansas,Hispanic,N/A
+628,2017AR,2017,AR,Arkansas,Native,N/A
+629,2017AR,2017,AR,Arkansas,Other,N/A
+630,2017AZ,2017,AZ,Arizona,Black,0.2
+631,2017AZ,2017,AZ,Arizona,White,0.05263157894736842
+632,2017AZ,2017,AZ,Arizona,Asian,N/A
+633,2017AZ,2017,AZ,Arizona,Hispanic,0.0
+634,2017AZ,2017,AZ,Arizona,Native,N/A
+635,2017AZ,2017,AZ,Arizona,Other,N/A
+636,2017CA,2017,CA,California,Black,0.09090909090909091
+637,2017CA,2017,CA,California,White,0.022222222222222223
+638,2017CA,2017,CA,California,Asian,0.0
+639,2017CA,2017,CA,California,Hispanic,0.11594202898550725
+640,2017CA,2017,CA,California,Native,0.0
+641,2017CA,2017,CA,California,Other,0.0
+642,2017CO,2017,CO,Colorado,Black,0.0
+643,2017CO,2017,CO,Colorado,White,0.07142857142857142
+644,2017CO,2017,CO,Colorado,Asian,0.0
+645,2017CO,2017,CO,Colorado,Hispanic,0.14285714285714285
+646,2017CO,2017,CO,Colorado,Native,0.0
+647,2017CO,2017,CO,Colorado,Other,0.0
+648,2017CT,2017,CT,Connecticut,Black,0.0
+649,2017CT,2017,CT,Connecticut,White,0.0
+650,2017CT,2017,CT,Connecticut,Asian,N/A
+651,2017CT,2017,CT,Connecticut,Hispanic,0.0
+652,2017CT,2017,CT,Connecticut,Native,N/A
+653,2017CT,2017,CT,Connecticut,Other,N/A
+654,2017DC,2017,DC,District of Columbia,Black,0.0
+655,2017DC,2017,DC,District of Columbia,White,0.0
+656,2017DC,2017,DC,District of Columbia,Asian,N/A
+657,2017DC,2017,DC,District of Columbia,Hispanic,N/A
+658,2017DC,2017,DC,District of Columbia,Native,N/A
+659,2017DC,2017,DC,District of Columbia,Other,N/A
+660,2017DE,2017,DE,Delaware,Black,0.0
+661,2017DE,2017,DE,Delaware,White,0.0
+662,2017DE,2017,DE,Delaware,Asian,N/A
+663,2017DE,2017,DE,Delaware,Hispanic,N/A
+664,2017DE,2017,DE,Delaware,Native,N/A
+665,2017DE,2017,DE,Delaware,Other,N/A
+666,2017FL,2017,FL,Florida,Black,0.2222222222222222
+667,2017FL,2017,FL,Florida,White,0.03225806451612903
+668,2017FL,2017,FL,Florida,Asian,N/A
+669,2017FL,2017,FL,Florida,Hispanic,0.14285714285714285
+670,2017FL,2017,FL,Florida,Native,N/A
+671,2017FL,2017,FL,Florida,Other,N/A
+672,2017GA,2017,GA,Georgia,Black,0.2222222222222222
+673,2017GA,2017,GA,Georgia,White,0.0625
+674,2017GA,2017,GA,Georgia,Asian,N/A
+675,2017GA,2017,GA,Georgia,Hispanic,1.0
+676,2017GA,2017,GA,Georgia,Native,N/A
+677,2017GA,2017,GA,Georgia,Other,N/A
+678,2017HI,2017,HI,Hawaii,Black,N/A
+679,2017HI,2017,HI,Hawaii,White,0.0
+680,2017HI,2017,HI,Hawaii,Asian,0.0
+681,2017HI,2017,HI,Hawaii,Hispanic,N/A
+682,2017HI,2017,HI,Hawaii,Native,N/A
+683,2017HI,2017,HI,Hawaii,Other,0.0
+684,2017IA,2017,IA,Iowa,Black,0.0
+685,2017IA,2017,IA,Iowa,White,0.0
+686,2017IA,2017,IA,Iowa,Asian,N/A
+687,2017IA,2017,IA,Iowa,Hispanic,N/A
+688,2017IA,2017,IA,Iowa,Native,N/A
+689,2017IA,2017,IA,Iowa,Other,N/A
+690,2017ID,2017,ID,Idaho,Black,N/A
+691,2017ID,2017,ID,Idaho,White,0.0
+692,2017ID,2017,ID,Idaho,Asian,N/A
+693,2017ID,2017,ID,Idaho,Hispanic,0.0
+694,2017ID,2017,ID,Idaho,Native,N/A
+695,2017ID,2017,ID,Idaho,Other,N/A
+696,2017IL,2017,IL,Illinois,Black,0.1
+697,2017IL,2017,IL,Illinois,White,0.16666666666666666
+698,2017IL,2017,IL,Illinois,Asian,N/A
+699,2017IL,2017,IL,Illinois,Hispanic,0.0
+700,2017IL,2017,IL,Illinois,Native,N/A
+701,2017IL,2017,IL,Illinois,Other,N/A
+702,2017IN,2017,IN,Indiana,Black,0.14285714285714285
+703,2017IN,2017,IN,Indiana,White,0.0
+704,2017IN,2017,IN,Indiana,Asian,N/A
+705,2017IN,2017,IN,Indiana,Hispanic,0.0
+706,2017IN,2017,IN,Indiana,Native,N/A
+707,2017IN,2017,IN,Indiana,Other,N/A
+708,2017KS,2017,KS,Kansas,Black,0.0
+709,2017KS,2017,KS,Kansas,White,0.16666666666666666
+710,2017KS,2017,KS,Kansas,Asian,N/A
+711,2017KS,2017,KS,Kansas,Hispanic,0.0
+712,2017KS,2017,KS,Kansas,Native,0.0
+713,2017KS,2017,KS,Kansas,Other,N/A
+714,2017KY,2017,KY,Kentucky,Black,0.0
+715,2017KY,2017,KY,Kentucky,White,0.0625
+716,2017KY,2017,KY,Kentucky,Asian,N/A
+717,2017KY,2017,KY,Kentucky,Hispanic,N/A
+718,2017KY,2017,KY,Kentucky,Native,N/A
+719,2017KY,2017,KY,Kentucky,Other,N/A
+720,2017LA,2017,LA,Louisiana,Black,0.2727272727272727
+721,2017LA,2017,LA,Louisiana,White,0.0
+722,2017LA,2017,LA,Louisiana,Asian,0.0
+723,2017LA,2017,LA,Louisiana,Hispanic,0.0
+724,2017LA,2017,LA,Louisiana,Native,N/A
+725,2017LA,2017,LA,Louisiana,Other,N/A
+726,2017MA,2017,MA,Massachusetts,Black,N/A
+727,2017MA,2017,MA,Massachusetts,White,0.0
+728,2017MA,2017,MA,Massachusetts,Asian,N/A
+729,2017MA,2017,MA,Massachusetts,Hispanic,0.0
+730,2017MA,2017,MA,Massachusetts,Native,N/A
+731,2017MA,2017,MA,Massachusetts,Other,N/A
+732,2017MD,2017,MD,Maryland,Black,0.0
+733,2017MD,2017,MD,Maryland,White,0.2
+734,2017MD,2017,MD,Maryland,Asian,N/A
+735,2017MD,2017,MD,Maryland,Hispanic,N/A
+736,2017MD,2017,MD,Maryland,Native,N/A
+737,2017MD,2017,MD,Maryland,Other,N/A
+738,2017ME,2017,ME,Maine,Black,0.0
+739,2017ME,2017,ME,Maine,White,0.125
+740,2017ME,2017,ME,Maine,Asian,N/A
+741,2017ME,2017,ME,Maine,Hispanic,N/A
+742,2017ME,2017,ME,Maine,Native,N/A
+743,2017ME,2017,ME,Maine,Other,N/A
+744,2017MI,2017,MI,Michigan,Black,0.2
+745,2017MI,2017,MI,Michigan,White,0.14285714285714285
+746,2017MI,2017,MI,Michigan,Asian,N/A
+747,2017MI,2017,MI,Michigan,Hispanic,N/A
+748,2017MI,2017,MI,Michigan,Native,N/A
+749,2017MI,2017,MI,Michigan,Other,1.0
+750,2017MN,2017,MN,Minnesota,Black,0.0
+751,2017MN,2017,MN,Minnesota,White,0.16666666666666666
+752,2017MN,2017,MN,Minnesota,Asian,0.0
+753,2017MN,2017,MN,Minnesota,Hispanic,N/A
+754,2017MN,2017,MN,Minnesota,Native,0.0
+755,2017MN,2017,MN,Minnesota,Other,N/A
+756,2017MO,2017,MO,Missouri,Black,0.0
+757,2017MO,2017,MO,Missouri,White,0.17647058823529413
+758,2017MO,2017,MO,Missouri,Asian,N/A
+759,2017MO,2017,MO,Missouri,Hispanic,0.0
+760,2017MO,2017,MO,Missouri,Native,N/A
+761,2017MO,2017,MO,Missouri,Other,N/A
+762,2017MS,2017,MS,Mississippi,Black,0.14285714285714285
+763,2017MS,2017,MS,Mississippi,White,0.1111111111111111
+764,2017MS,2017,MS,Mississippi,Asian,N/A
+765,2017MS,2017,MS,Mississippi,Hispanic,0.0
+766,2017MS,2017,MS,Mississippi,Native,N/A
+767,2017MS,2017,MS,Mississippi,Other,N/A
+768,2017MT,2017,MT,Montana,Black,N/A
+769,2017MT,2017,MT,Montana,White,0.0
+770,2017MT,2017,MT,Montana,Asian,N/A
+771,2017MT,2017,MT,Montana,Hispanic,N/A
+772,2017MT,2017,MT,Montana,Native,0.0
+773,2017MT,2017,MT,Montana,Other,N/A
+774,2017NC,2017,NC,North Carolina,Black,0.0
+775,2017NC,2017,NC,North Carolina,White,0.0
+776,2017NC,2017,NC,North Carolina,Asian,N/A
+777,2017NC,2017,NC,North Carolina,Hispanic,0.0
+778,2017NC,2017,NC,North Carolina,Native,N/A
+779,2017NC,2017,NC,North Carolina,Other,N/A
+780,2017ND,2017,ND,North Dakota,Black,N/A
+781,2017ND,2017,ND,North Dakota,White,N/A
+782,2017ND,2017,ND,North Dakota,Asian,N/A
+783,2017ND,2017,ND,North Dakota,Hispanic,N/A
+784,2017ND,2017,ND,North Dakota,Native,0.0
+785,2017ND,2017,ND,North Dakota,Other,N/A
+786,2017NE,2017,NE,Nebraska,Black,N/A
+787,2017NE,2017,NE,Nebraska,White,N/A
+788,2017NE,2017,NE,Nebraska,Asian,N/A
+789,2017NE,2017,NE,Nebraska,Hispanic,N/A
+790,2017NE,2017,NE,Nebraska,Native,N/A
+791,2017NE,2017,NE,Nebraska,Other,N/A
+792,2017NH,2017,NH,New Hampshire,Black,N/A
+793,2017NH,2017,NH,New Hampshire,White,0.0
+794,2017NH,2017,NH,New Hampshire,Asian,N/A
+795,2017NH,2017,NH,New Hampshire,Hispanic,N/A
+796,2017NH,2017,NH,New Hampshire,Native,N/A
+797,2017NH,2017,NH,New Hampshire,Other,N/A
+798,2017NJ,2017,NJ,New Jersey,Black,0.0
+799,2017NJ,2017,NJ,New Jersey,White,0.5
+800,2017NJ,2017,NJ,New Jersey,Asian,N/A
+801,2017NJ,2017,NJ,New Jersey,Hispanic,0.0
+802,2017NJ,2017,NJ,New Jersey,Native,N/A
+803,2017NJ,2017,NJ,New Jersey,Other,N/A
+804,2017NM,2017,NM,New Mexico,Black,N/A
+805,2017NM,2017,NM,New Mexico,White,0.25
+806,2017NM,2017,NM,New Mexico,Asian,N/A
+807,2017NM,2017,NM,New Mexico,Hispanic,0.14285714285714285
+808,2017NM,2017,NM,New Mexico,Native,N/A
+809,2017NM,2017,NM,New Mexico,Other,N/A
+810,2017NV,2017,NV,Nevada,Black,0.0
+811,2017NV,2017,NV,Nevada,White,0.0
+812,2017NV,2017,NV,Nevada,Asian,N/A
+813,2017NV,2017,NV,Nevada,Hispanic,0.0
+814,2017NV,2017,NV,Nevada,Native,0.0
+815,2017NV,2017,NV,Nevada,Other,N/A
+816,2017NY,2017,NY,New York,Black,0.0
+817,2017NY,2017,NY,New York,White,0.0
+818,2017NY,2017,NY,New York,Asian,N/A
+819,2017NY,2017,NY,New York,Hispanic,0.0
+820,2017NY,2017,NY,New York,Native,N/A
+821,2017NY,2017,NY,New York,Other,N/A
+822,2017OH,2017,OH,Ohio,Black,0.0
+823,2017OH,2017,OH,Ohio,White,0.17391304347826086
+824,2017OH,2017,OH,Ohio,Asian,N/A
+825,2017OH,2017,OH,Ohio,Hispanic,N/A
+826,2017OH,2017,OH,Ohio,Native,N/A
+827,2017OH,2017,OH,Ohio,Other,N/A
+828,2017OK,2017,OK,Oklahoma,Black,0.0
+829,2017OK,2017,OK,Oklahoma,White,0.0
+830,2017OK,2017,OK,Oklahoma,Asian,0.5
+831,2017OK,2017,OK,Oklahoma,Hispanic,0.0
+832,2017OK,2017,OK,Oklahoma,Native,0.0
+833,2017OK,2017,OK,Oklahoma,Other,N/A
+834,2017OR,2017,OR,Oregon,Black,0.0
+835,2017OR,2017,OR,Oregon,White,0.14285714285714285
+836,2017OR,2017,OR,Oregon,Asian,N/A
+837,2017OR,2017,OR,Oregon,Hispanic,0.0
+838,2017OR,2017,OR,Oregon,Native,N/A
+839,2017OR,2017,OR,Oregon,Other,N/A
+840,2017PA,2017,PA,Pennsylvania,Black,0.16666666666666666
+841,2017PA,2017,PA,Pennsylvania,White,0.07692307692307693
+842,2017PA,2017,PA,Pennsylvania,Asian,N/A
+843,2017PA,2017,PA,Pennsylvania,Hispanic,0.0
+844,2017PA,2017,PA,Pennsylvania,Native,N/A
+845,2017PA,2017,PA,Pennsylvania,Other,N/A
+846,2017RI,2017,RI,Rhode Island,Black,N/A
+847,2017RI,2017,RI,Rhode Island,White,0.0
+848,2017RI,2017,RI,Rhode Island,Asian,N/A
+849,2017RI,2017,RI,Rhode Island,Hispanic,N/A
+850,2017RI,2017,RI,Rhode Island,Native,N/A
+851,2017RI,2017,RI,Rhode Island,Other,N/A
+852,2017SC,2017,SC,South Carolina,Black,0.0
+853,2017SC,2017,SC,South Carolina,White,0.125
+854,2017SC,2017,SC,South Carolina,Asian,N/A
+855,2017SC,2017,SC,South Carolina,Hispanic,0.0
+856,2017SC,2017,SC,South Carolina,Native,N/A
+857,2017SC,2017,SC,South Carolina,Other,N/A
+858,2017SD,2017,SD,South Dakota,Black,N/A
+859,2017SD,2017,SD,South Dakota,White,0.0
+860,2017SD,2017,SD,South Dakota,Asian,0.0
+861,2017SD,2017,SD,South Dakota,Hispanic,N/A
+862,2017SD,2017,SD,South Dakota,Native,N/A
+863,2017SD,2017,SD,South Dakota,Other,N/A
+864,2017TN,2017,TN,Tennessee,Black,0.25
+865,2017TN,2017,TN,Tennessee,White,0.0
+866,2017TN,2017,TN,Tennessee,Asian,N/A
+867,2017TN,2017,TN,Tennessee,Hispanic,N/A
+868,2017TN,2017,TN,Tennessee,Native,N/A
+869,2017TN,2017,TN,Tennessee,Other,N/A
+870,2017TX,2017,TX,Texas,Black,0.11764705882352941
+871,2017TX,2017,TX,Texas,White,0.14285714285714285
+872,2017TX,2017,TX,Texas,Asian,0.0
+873,2017TX,2017,TX,Texas,Hispanic,0.0
+874,2017TX,2017,TX,Texas,Native,N/A
+875,2017TX,2017,TX,Texas,Other,N/A
+876,2017UT,2017,UT,Utah,Black,0.0
+877,2017UT,2017,UT,Utah,White,0.0
+878,2017UT,2017,UT,Utah,Asian,N/A
+879,2017UT,2017,UT,Utah,Hispanic,0.0
+880,2017UT,2017,UT,Utah,Native,N/A
+881,2017UT,2017,UT,Utah,Other,N/A
+882,2017VA,2017,VA,Virginia,Black,0.0
+883,2017VA,2017,VA,Virginia,White,0.07692307692307693
+884,2017VA,2017,VA,Virginia,Asian,0.0
+885,2017VA,2017,VA,Virginia,Hispanic,0.0
+886,2017VA,2017,VA,Virginia,Native,N/A
+887,2017VA,2017,VA,Virginia,Other,N/A
+888,2017VT,2017,VT,Vermont,Black,N/A
+889,2017VT,2017,VT,Vermont,White,0.0
+890,2017VT,2017,VT,Vermont,Asian,N/A
+891,2017VT,2017,VT,Vermont,Hispanic,N/A
+892,2017VT,2017,VT,Vermont,Native,N/A
+893,2017VT,2017,VT,Vermont,Other,N/A
+894,2017WA,2017,WA,Washington,Black,0.0
+895,2017WA,2017,WA,Washington,White,0.0
+896,2017WA,2017,WA,Washington,Asian,0.0
+897,2017WA,2017,WA,Washington,Hispanic,0.0
+898,2017WA,2017,WA,Washington,Native,0.0
+899,2017WA,2017,WA,Washington,Other,0.0
+900,2017WI,2017,WI,Wisconsin,Black,0.2
+901,2017WI,2017,WI,Wisconsin,White,0.0
+902,2017WI,2017,WI,Wisconsin,Asian,0.0
+903,2017WI,2017,WI,Wisconsin,Hispanic,N/A
+904,2017WI,2017,WI,Wisconsin,Native,0.3333333333333333
+905,2017WI,2017,WI,Wisconsin,Other,N/A
+906,2017WV,2017,WV,West Virginia,Black,0.0
+907,2017WV,2017,WV,West Virginia,White,0.0
+908,2017WV,2017,WV,West Virginia,Asian,N/A
+909,2017WV,2017,WV,West Virginia,Hispanic,N/A
+910,2017WV,2017,WV,West Virginia,Native,N/A
+911,2017WV,2017,WV,West Virginia,Other,N/A
+912,2017WY,2017,WY,Wyoming,Black,N/A
+913,2017WY,2017,WY,Wyoming,White,0.0
+914,2017WY,2017,WY,Wyoming,Asian,N/A
+915,2017WY,2017,WY,Wyoming,Hispanic,N/A
+916,2017WY,2017,WY,Wyoming,Native,N/A
+917,2017WY,2017,WY,Wyoming,Other,N/A
+918,2018AK,2018,AK,Alaska,Black,0.0
+919,2018AK,2018,AK,Alaska,White,0.3333333333333333
+920,2018AK,2018,AK,Alaska,Asian,0.0
+921,2018AK,2018,AK,Alaska,Hispanic,N/A
+922,2018AK,2018,AK,Alaska,Native,0.0
+923,2018AK,2018,AK,Alaska,Other,N/A
+924,2018AL,2018,AL,Alabama,Black,0.0
+925,2018AL,2018,AL,Alabama,White,0.0
+926,2018AL,2018,AL,Alabama,Asian,N/A
+927,2018AL,2018,AL,Alabama,Hispanic,N/A
+928,2018AL,2018,AL,Alabama,Native,N/A
+929,2018AL,2018,AL,Alabama,Other,N/A
+930,2018AR,2018,AR,Arkansas,Black,0.0
+931,2018AR,2018,AR,Arkansas,White,0.0
+932,2018AR,2018,AR,Arkansas,Asian,N/A
+933,2018AR,2018,AR,Arkansas,Hispanic,N/A
+934,2018AR,2018,AR,Arkansas,Native,N/A
+935,2018AR,2018,AR,Arkansas,Other,N/A
+936,2018AZ,2018,AZ,Arizona,Black,0.2
+937,2018AZ,2018,AZ,Arizona,White,0.12
+938,2018AZ,2018,AZ,Arizona,Asian,N/A
+939,2018AZ,2018,AZ,Arizona,Hispanic,0.0
+940,2018AZ,2018,AZ,Arizona,Native,0.0
+941,2018AZ,2018,AZ,Arizona,Other,N/A
+942,2018CA,2018,CA,California,Black,0.1111111111111111
+943,2018CA,2018,CA,California,White,0.0
+944,2018CA,2018,CA,California,Asian,0.0
+945,2018CA,2018,CA,California,Hispanic,0.021739130434782608
+946,2018CA,2018,CA,California,Native,N/A
+947,2018CA,2018,CA,California,Other,N/A
+948,2018CO,2018,CO,Colorado,Black,0.0
+949,2018CO,2018,CO,Colorado,White,0.043478260869565216
+950,2018CO,2018,CO,Colorado,Asian,0.5
+951,2018CO,2018,CO,Colorado,Hispanic,0.0
+952,2018CO,2018,CO,Colorado,Native,0.0
+953,2018CO,2018,CO,Colorado,Other,N/A
+954,2018CT,2018,CT,Connecticut,Black,N/A
+955,2018CT,2018,CT,Connecticut,White,0.0
+956,2018CT,2018,CT,Connecticut,Asian,N/A
+957,2018CT,2018,CT,Connecticut,Hispanic,N/A
+958,2018CT,2018,CT,Connecticut,Native,N/A
+959,2018CT,2018,CT,Connecticut,Other,N/A
+960,2018DC,2018,DC,District of Columbia,Black,0.0
+961,2018DC,2018,DC,District of Columbia,White,N/A
+962,2018DC,2018,DC,District of Columbia,Asian,N/A
+963,2018DC,2018,DC,District of Columbia,Hispanic,N/A
+964,2018DC,2018,DC,District of Columbia,Native,N/A
+965,2018DC,2018,DC,District of Columbia,Other,N/A
+966,2018DE,2018,DE,Delaware,Black,N/A
+967,2018DE,2018,DE,Delaware,White,N/A
+968,2018DE,2018,DE,Delaware,Asian,N/A
+969,2018DE,2018,DE,Delaware,Hispanic,N/A
+970,2018DE,2018,DE,Delaware,Native,N/A
+971,2018DE,2018,DE,Delaware,Other,N/A
+972,2018FL,2018,FL,Florida,Black,0.15
+973,2018FL,2018,FL,Florida,White,0.11764705882352941
+974,2018FL,2018,FL,Florida,Asian,N/A
+975,2018FL,2018,FL,Florida,Hispanic,0.125
+976,2018FL,2018,FL,Florida,Native,N/A
+977,2018FL,2018,FL,Florida,Other,N/A
+978,2018GA,2018,GA,Georgia,Black,0.09090909090909091
+979,2018GA,2018,GA,Georgia,White,0.0
+980,2018GA,2018,GA,Georgia,Asian,0.0
+981,2018GA,2018,GA,Georgia,Hispanic,0.0
+982,2018GA,2018,GA,Georgia,Native,N/A
+983,2018GA,2018,GA,Georgia,Other,N/A
+984,2018HI,2018,HI,Hawaii,Black,N/A
+985,2018HI,2018,HI,Hawaii,White,0.0
+986,2018HI,2018,HI,Hawaii,Asian,0.0
+987,2018HI,2018,HI,Hawaii,Hispanic,0.0
+988,2018HI,2018,HI,Hawaii,Native,N/A
+989,2018HI,2018,HI,Hawaii,Other,0.0
+990,2018IA,2018,IA,Iowa,Black,0.0
+991,2018IA,2018,IA,Iowa,White,0.0
+992,2018IA,2018,IA,Iowa,Asian,N/A
+993,2018IA,2018,IA,Iowa,Hispanic,N/A
+994,2018IA,2018,IA,Iowa,Native,N/A
+995,2018IA,2018,IA,Iowa,Other,N/A
+996,2018ID,2018,ID,Idaho,Black,1.0
+997,2018ID,2018,ID,Idaho,White,0.0
+998,2018ID,2018,ID,Idaho,Asian,N/A
+999,2018ID,2018,ID,Idaho,Hispanic,N/A
+1000,2018ID,2018,ID,Idaho,Native,0.0
+1001,2018ID,2018,ID,Idaho,Other,N/A
+1002,2018IL,2018,IL,Illinois,Black,0.0
+1003,2018IL,2018,IL,Illinois,White,0.14285714285714285
+1004,2018IL,2018,IL,Illinois,Asian,N/A
+1005,2018IL,2018,IL,Illinois,Hispanic,0.0
+1006,2018IL,2018,IL,Illinois,Native,N/A
+1007,2018IL,2018,IL,Illinois,Other,N/A
+1008,2018IN,2018,IN,Indiana,Black,0.0
+1009,2018IN,2018,IN,Indiana,White,0.0
+1010,2018IN,2018,IN,Indiana,Asian,N/A
+1011,2018IN,2018,IN,Indiana,Hispanic,0.0
+1012,2018IN,2018,IN,Indiana,Native,N/A
+1013,2018IN,2018,IN,Indiana,Other,N/A
+1014,2018KS,2018,KS,Kansas,Black,0.0
+1015,2018KS,2018,KS,Kansas,White,0.0
+1016,2018KS,2018,KS,Kansas,Asian,N/A
+1017,2018KS,2018,KS,Kansas,Hispanic,0.0
+1018,2018KS,2018,KS,Kansas,Native,N/A
+1019,2018KS,2018,KS,Kansas,Other,N/A
+1020,2018KY,2018,KY,Kentucky,Black,0.0
+1021,2018KY,2018,KY,Kentucky,White,0.0
+1022,2018KY,2018,KY,Kentucky,Asian,0.0
+1023,2018KY,2018,KY,Kentucky,Hispanic,0.0
+1024,2018KY,2018,KY,Kentucky,Native,0.0
+1025,2018KY,2018,KY,Kentucky,Other,N/A
+1026,2018LA,2018,LA,Louisiana,Black,0.25
+1027,2018LA,2018,LA,Louisiana,White,0.1
+1028,2018LA,2018,LA,Louisiana,Asian,N/A
+1029,2018LA,2018,LA,Louisiana,Hispanic,N/A
+1030,2018LA,2018,LA,Louisiana,Native,N/A
+1031,2018LA,2018,LA,Louisiana,Other,N/A
+1032,2018MA,2018,MA,Massachusetts,Black,N/A
+1033,2018MA,2018,MA,Massachusetts,White,0.3333333333333333
+1034,2018MA,2018,MA,Massachusetts,Asian,N/A
+1035,2018MA,2018,MA,Massachusetts,Hispanic,N/A
+1036,2018MA,2018,MA,Massachusetts,Native,N/A
+1037,2018MA,2018,MA,Massachusetts,Other,N/A
+1038,2018MD,2018,MD,Maryland,Black,0.125
+1039,2018MD,2018,MD,Maryland,White,0.0
+1040,2018MD,2018,MD,Maryland,Asian,N/A
+1041,2018MD,2018,MD,Maryland,Hispanic,0.0
+1042,2018MD,2018,MD,Maryland,Native,N/A
+1043,2018MD,2018,MD,Maryland,Other,N/A
+1044,2018ME,2018,ME,Maine,Black,N/A
+1045,2018ME,2018,ME,Maine,White,0.0
+1046,2018ME,2018,ME,Maine,Asian,N/A
+1047,2018ME,2018,ME,Maine,Hispanic,N/A
+1048,2018ME,2018,ME,Maine,Native,N/A
+1049,2018ME,2018,ME,Maine,Other,N/A
+1050,2018MI,2018,MI,Michigan,Black,0.0
+1051,2018MI,2018,MI,Michigan,White,0.09090909090909091
+1052,2018MI,2018,MI,Michigan,Asian,0.0
+1053,2018MI,2018,MI,Michigan,Hispanic,N/A
+1054,2018MI,2018,MI,Michigan,Native,N/A
+1055,2018MI,2018,MI,Michigan,Other,N/A
+1056,2018MN,2018,MN,Minnesota,Black,0.0
+1057,2018MN,2018,MN,Minnesota,White,0.0
+1058,2018MN,2018,MN,Minnesota,Asian,N/A
+1059,2018MN,2018,MN,Minnesota,Hispanic,0.0
+1060,2018MN,2018,MN,Minnesota,Native,0.0
+1061,2018MN,2018,MN,Minnesota,Other,N/A
+1062,2018MO,2018,MO,Missouri,Black,0.0
+1063,2018MO,2018,MO,Missouri,White,0.0
+1064,2018MO,2018,MO,Missouri,Asian,0.0
+1065,2018MO,2018,MO,Missouri,Hispanic,N/A
+1066,2018MO,2018,MO,Missouri,Native,N/A
+1067,2018MO,2018,MO,Missouri,Other,N/A
+1068,2018MS,2018,MS,Mississippi,Black,0.0
+1069,2018MS,2018,MS,Mississippi,White,0.25
+1070,2018MS,2018,MS,Mississippi,Asian,N/A
+1071,2018MS,2018,MS,Mississippi,Hispanic,N/A
+1072,2018MS,2018,MS,Mississippi,Native,N/A
+1073,2018MS,2018,MS,Mississippi,Other,N/A
+1074,2018MT,2018,MT,Montana,Black,N/A
+1075,2018MT,2018,MT,Montana,White,0.0
+1076,2018MT,2018,MT,Montana,Asian,N/A
+1077,2018MT,2018,MT,Montana,Hispanic,N/A
+1078,2018MT,2018,MT,Montana,Native,0.0
+1079,2018MT,2018,MT,Montana,Other,N/A
+1080,2018NC,2018,NC,North Carolina,Black,0.0
+1081,2018NC,2018,NC,North Carolina,White,0.0
+1082,2018NC,2018,NC,North Carolina,Asian,N/A
+1083,2018NC,2018,NC,North Carolina,Hispanic,0.0
+1084,2018NC,2018,NC,North Carolina,Native,N/A
+1085,2018NC,2018,NC,North Carolina,Other,N/A
+1086,2018ND,2018,ND,North Dakota,Black,N/A
+1087,2018ND,2018,ND,North Dakota,White,0.25
+1088,2018ND,2018,ND,North Dakota,Asian,N/A
+1089,2018ND,2018,ND,North Dakota,Hispanic,N/A
+1090,2018ND,2018,ND,North Dakota,Native,N/A
+1091,2018ND,2018,ND,North Dakota,Other,N/A
+1092,2018NE,2018,NE,Nebraska,Black,0.0
+1093,2018NE,2018,NE,Nebraska,White,N/A
+1094,2018NE,2018,NE,Nebraska,Asian,N/A
+1095,2018NE,2018,NE,Nebraska,Hispanic,N/A
+1096,2018NE,2018,NE,Nebraska,Native,N/A
+1097,2018NE,2018,NE,Nebraska,Other,N/A
+1098,2018NH,2018,NH,New Hampshire,Black,N/A
+1099,2018NH,2018,NH,New Hampshire,White,0.0
+1100,2018NH,2018,NH,New Hampshire,Asian,N/A
+1101,2018NH,2018,NH,New Hampshire,Hispanic,N/A
+1102,2018NH,2018,NH,New Hampshire,Native,N/A
+1103,2018NH,2018,NH,New Hampshire,Other,N/A
+1104,2018NJ,2018,NJ,New Jersey,Black,0.3333333333333333
+1105,2018NJ,2018,NJ,New Jersey,White,0.0
+1106,2018NJ,2018,NJ,New Jersey,Asian,N/A
+1107,2018NJ,2018,NJ,New Jersey,Hispanic,0.0
+1108,2018NJ,2018,NJ,New Jersey,Native,N/A
+1109,2018NJ,2018,NJ,New Jersey,Other,N/A
+1110,2018NM,2018,NM,New Mexico,Black,1.0
+1111,2018NM,2018,NM,New Mexico,White,0.0
+1112,2018NM,2018,NM,New Mexico,Asian,N/A
+1113,2018NM,2018,NM,New Mexico,Hispanic,0.07142857142857142
+1114,2018NM,2018,NM,New Mexico,Native,N/A
+1115,2018NM,2018,NM,New Mexico,Other,N/A
+1116,2018NV,2018,NV,Nevada,Black,0.0
+1117,2018NV,2018,NV,Nevada,White,0.0
+1118,2018NV,2018,NV,Nevada,Asian,0.0
+1119,2018NV,2018,NV,Nevada,Hispanic,0.0
+1120,2018NV,2018,NV,Nevada,Native,N/A
+1121,2018NV,2018,NV,Nevada,Other,N/A
+1122,2018NY,2018,NY,New York,Black,0.0
+1123,2018NY,2018,NY,New York,White,0.0
+1124,2018NY,2018,NY,New York,Asian,N/A
+1125,2018NY,2018,NY,New York,Hispanic,0.0
+1126,2018NY,2018,NY,New York,Native,N/A
+1127,2018NY,2018,NY,New York,Other,N/A
+1128,2018OH,2018,OH,Ohio,Black,0.0
+1129,2018OH,2018,OH,Ohio,White,0.15
+1130,2018OH,2018,OH,Ohio,Asian,N/A
+1131,2018OH,2018,OH,Ohio,Hispanic,0.0
+1132,2018OH,2018,OH,Ohio,Native,N/A
+1133,2018OH,2018,OH,Ohio,Other,N/A
+1134,2018OK,2018,OK,Oklahoma,Black,0.0
+1135,2018OK,2018,OK,Oklahoma,White,0.13043478260869565
+1136,2018OK,2018,OK,Oklahoma,Asian,0.0
+1137,2018OK,2018,OK,Oklahoma,Hispanic,1.0
+1138,2018OK,2018,OK,Oklahoma,Native,0.0
+1139,2018OK,2018,OK,Oklahoma,Other,N/A
+1140,2018OR,2018,OR,Oregon,Black,0.0
+1141,2018OR,2018,OR,Oregon,White,0.07692307692307693
+1142,2018OR,2018,OR,Oregon,Asian,N/A
+1143,2018OR,2018,OR,Oregon,Hispanic,0.0
+1144,2018OR,2018,OR,Oregon,Native,N/A
+1145,2018OR,2018,OR,Oregon,Other,N/A
+1146,2018PA,2018,PA,Pennsylvania,Black,0.2222222222222222
+1147,2018PA,2018,PA,Pennsylvania,White,0.0
+1148,2018PA,2018,PA,Pennsylvania,Asian,N/A
+1149,2018PA,2018,PA,Pennsylvania,Hispanic,0.25
+1150,2018PA,2018,PA,Pennsylvania,Native,N/A
+1151,2018PA,2018,PA,Pennsylvania,Other,N/A
+1152,2018RI,2018,RI,Rhode Island,Black,0.0
+1153,2018RI,2018,RI,Rhode Island,White,N/A
+1154,2018RI,2018,RI,Rhode Island,Asian,N/A
+1155,2018RI,2018,RI,Rhode Island,Hispanic,N/A
+1156,2018RI,2018,RI,Rhode Island,Native,N/A
+1157,2018RI,2018,RI,Rhode Island,Other,N/A
+1158,2018SC,2018,SC,South Carolina,Black,0.0
+1159,2018SC,2018,SC,South Carolina,White,0.0
+1160,2018SC,2018,SC,South Carolina,Asian,0.0
+1161,2018SC,2018,SC,South Carolina,Hispanic,N/A
+1162,2018SC,2018,SC,South Carolina,Native,N/A
+1163,2018SC,2018,SC,South Carolina,Other,N/A
+1164,2018SD,2018,SD,South Dakota,Black,N/A
+1165,2018SD,2018,SD,South Dakota,White,0.0
+1166,2018SD,2018,SD,South Dakota,Asian,N/A
+1167,2018SD,2018,SD,South Dakota,Hispanic,N/A
+1168,2018SD,2018,SD,South Dakota,Native,N/A
+1169,2018SD,2018,SD,South Dakota,Other,N/A
+1170,2018TN,2018,TN,Tennessee,Black,0.0
+1171,2018TN,2018,TN,Tennessee,White,0.0
+1172,2018TN,2018,TN,Tennessee,Asian,N/A
+1173,2018TN,2018,TN,Tennessee,Hispanic,0.0
+1174,2018TN,2018,TN,Tennessee,Native,N/A
+1175,2018TN,2018,TN,Tennessee,Other,N/A
+1176,2018TX,2018,TX,Texas,Black,0.25
+1177,2018TX,2018,TX,Texas,White,0.043478260869565216
+1178,2018TX,2018,TX,Texas,Asian,0.0
+1179,2018TX,2018,TX,Texas,Hispanic,0.06666666666666667
+1180,2018TX,2018,TX,Texas,Native,N/A
+1181,2018TX,2018,TX,Texas,Other,N/A
+1182,2018UT,2018,UT,Utah,Black,0.0
+1183,2018UT,2018,UT,Utah,White,0.1111111111111111
+1184,2018UT,2018,UT,Utah,Asian,N/A
+1185,2018UT,2018,UT,Utah,Hispanic,0.0
+1186,2018UT,2018,UT,Utah,Native,0.0
+1187,2018UT,2018,UT,Utah,Other,N/A
+1188,2018VA,2018,VA,Virginia,Black,0.25
+1189,2018VA,2018,VA,Virginia,White,0.0
+1190,2018VA,2018,VA,Virginia,Asian,N/A
+1191,2018VA,2018,VA,Virginia,Hispanic,N/A
+1192,2018VA,2018,VA,Virginia,Native,N/A
+1193,2018VA,2018,VA,Virginia,Other,N/A
+1194,2018VT,2018,VT,Vermont,Black,N/A
+1195,2018VT,2018,VT,Vermont,White,0.0
+1196,2018VT,2018,VT,Vermont,Asian,N/A
+1197,2018VT,2018,VT,Vermont,Hispanic,N/A
+1198,2018VT,2018,VT,Vermont,Native,N/A
+1199,2018VT,2018,VT,Vermont,Other,N/A
+1200,2018WA,2018,WA,Washington,Black,N/A
+1201,2018WA,2018,WA,Washington,White,0.08333333333333333
+1202,2018WA,2018,WA,Washington,Asian,0.0
+1203,2018WA,2018,WA,Washington,Hispanic,0.0
+1204,2018WA,2018,WA,Washington,Native,N/A
+1205,2018WA,2018,WA,Washington,Other,N/A
+1206,2018WI,2018,WI,Wisconsin,Black,0.0
+1207,2018WI,2018,WI,Wisconsin,White,0.0
+1208,2018WI,2018,WI,Wisconsin,Asian,N/A
+1209,2018WI,2018,WI,Wisconsin,Hispanic,N/A
+1210,2018WI,2018,WI,Wisconsin,Native,0.0
+1211,2018WI,2018,WI,Wisconsin,Other,N/A
+1212,2018WV,2018,WV,West Virginia,Black,0.0
+1213,2018WV,2018,WV,West Virginia,White,0.0
+1214,2018WV,2018,WV,West Virginia,Asian,N/A
+1215,2018WV,2018,WV,West Virginia,Hispanic,N/A
+1216,2018WV,2018,WV,West Virginia,Native,N/A
+1217,2018WV,2018,WV,West Virginia,Other,N/A
+1218,2018WY,2018,WY,Wyoming,Black,N/A
+1219,2018WY,2018,WY,Wyoming,White,0.0
+1220,2018WY,2018,WY,Wyoming,Asian,N/A
+1221,2018WY,2018,WY,Wyoming,Hispanic,1.0
+1222,2018WY,2018,WY,Wyoming,Native,N/A
+1223,2018WY,2018,WY,Wyoming,Other,N/A
+1224,2019AK,2019,AK,Alaska,Black,0.0
+1225,2019AK,2019,AK,Alaska,White,0.0
+1226,2019AK,2019,AK,Alaska,Asian,N/A
+1227,2019AK,2019,AK,Alaska,Hispanic,N/A
+1228,2019AK,2019,AK,Alaska,Native,0.0
+1229,2019AK,2019,AK,Alaska,Other,N/A
+1230,2019AL,2019,AL,Alabama,Black,0.0
+1231,2019AL,2019,AL,Alabama,White,0.0
+1232,2019AL,2019,AL,Alabama,Asian,N/A
+1233,2019AL,2019,AL,Alabama,Hispanic,N/A
+1234,2019AL,2019,AL,Alabama,Native,N/A
+1235,2019AL,2019,AL,Alabama,Other,N/A
+1236,2019AR,2019,AR,Arkansas,Black,0.125
+1237,2019AR,2019,AR,Arkansas,White,0.0
+1238,2019AR,2019,AR,Arkansas,Asian,N/A
+1239,2019AR,2019,AR,Arkansas,Hispanic,N/A
+1240,2019AR,2019,AR,Arkansas,Native,N/A
+1241,2019AR,2019,AR,Arkansas,Other,N/A
+1242,2019AZ,2019,AZ,Arizona,Black,0.0
+1243,2019AZ,2019,AZ,Arizona,White,0.1111111111111111
+1244,2019AZ,2019,AZ,Arizona,Asian,N/A
+1245,2019AZ,2019,AZ,Arizona,Hispanic,0.11764705882352941
+1246,2019AZ,2019,AZ,Arizona,Native,0.0
+1247,2019AZ,2019,AZ,Arizona,Other,N/A
+1248,2019CA,2019,CA,California,Black,0.041666666666666664
+1249,2019CA,2019,CA,California,White,0.12121212121212122
+1250,2019CA,2019,CA,California,Asian,0.14285714285714285
+1251,2019CA,2019,CA,California,Hispanic,0.06666666666666667
+1252,2019CA,2019,CA,California,Native,0.0
+1253,2019CA,2019,CA,California,Other,N/A
+1254,2019CO,2019,CO,Colorado,Black,0.0
+1255,2019CO,2019,CO,Colorado,White,0.06666666666666667
+1256,2019CO,2019,CO,Colorado,Asian,N/A
+1257,2019CO,2019,CO,Colorado,Hispanic,0.08333333333333333
+1258,2019CO,2019,CO,Colorado,Native,N/A
+1259,2019CO,2019,CO,Colorado,Other,N/A
+1260,2019CT,2019,CT,Connecticut,Black,0.0
+1261,2019CT,2019,CT,Connecticut,White,1.0
+1262,2019CT,2019,CT,Connecticut,Asian,N/A
+1263,2019CT,2019,CT,Connecticut,Hispanic,0.0
+1264,2019CT,2019,CT,Connecticut,Native,N/A
+1265,2019CT,2019,CT,Connecticut,Other,N/A
+1266,2019DC,2019,DC,District of Columbia,Black,0.0
+1267,2019DC,2019,DC,District of Columbia,White,N/A
+1268,2019DC,2019,DC,District of Columbia,Asian,N/A
+1269,2019DC,2019,DC,District of Columbia,Hispanic,N/A
+1270,2019DC,2019,DC,District of Columbia,Native,N/A
+1271,2019DC,2019,DC,District of Columbia,Other,N/A
+1272,2019DE,2019,DE,Delaware,Black,N/A
+1273,2019DE,2019,DE,Delaware,White,N/A
+1274,2019DE,2019,DE,Delaware,Asian,N/A
+1275,2019DE,2019,DE,Delaware,Hispanic,N/A
+1276,2019DE,2019,DE,Delaware,Native,N/A
+1277,2019DE,2019,DE,Delaware,Other,N/A
+1278,2019FL,2019,FL,Florida,Black,0.0
+1279,2019FL,2019,FL,Florida,White,0.0
+1280,2019FL,2019,FL,Florida,Asian,N/A
+1281,2019FL,2019,FL,Florida,Hispanic,0.0
+1282,2019FL,2019,FL,Florida,Native,N/A
+1283,2019FL,2019,FL,Florida,Other,0.0
+1284,2019GA,2019,GA,Georgia,Black,0.1111111111111111
+1285,2019GA,2019,GA,Georgia,White,0.125
+1286,2019GA,2019,GA,Georgia,Asian,0.0
+1287,2019GA,2019,GA,Georgia,Hispanic,0.0
+1288,2019GA,2019,GA,Georgia,Native,N/A
+1289,2019GA,2019,GA,Georgia,Other,N/A
+1290,2019HI,2019,HI,Hawaii,Black,N/A
+1291,2019HI,2019,HI,Hawaii,White,0.0
+1292,2019HI,2019,HI,Hawaii,Asian,1.0
+1293,2019HI,2019,HI,Hawaii,Hispanic,N/A
+1294,2019HI,2019,HI,Hawaii,Native,N/A
+1295,2019HI,2019,HI,Hawaii,Other,0.0
+1296,2019IA,2019,IA,Iowa,Black,0.0
+1297,2019IA,2019,IA,Iowa,White,0.0
+1298,2019IA,2019,IA,Iowa,Asian,N/A
+1299,2019IA,2019,IA,Iowa,Hispanic,N/A
+1300,2019IA,2019,IA,Iowa,Native,N/A
+1301,2019IA,2019,IA,Iowa,Other,N/A
+1302,2019ID,2019,ID,Idaho,Black,N/A
+1303,2019ID,2019,ID,Idaho,White,0.0
+1304,2019ID,2019,ID,Idaho,Asian,N/A
+1305,2019ID,2019,ID,Idaho,Hispanic,0.0
+1306,2019ID,2019,ID,Idaho,Native,N/A
+1307,2019ID,2019,ID,Idaho,Other,N/A
+1308,2019IL,2019,IL,Illinois,Black,0.0
+1309,2019IL,2019,IL,Illinois,White,0.0
+1310,2019IL,2019,IL,Illinois,Asian,N/A
+1311,2019IL,2019,IL,Illinois,Hispanic,0.0
+1312,2019IL,2019,IL,Illinois,Native,N/A
+1313,2019IL,2019,IL,Illinois,Other,N/A
+1314,2019IN,2019,IN,Indiana,Black,0.0
+1315,2019IN,2019,IN,Indiana,White,0.0
+1316,2019IN,2019,IN,Indiana,Asian,N/A
+1317,2019IN,2019,IN,Indiana,Hispanic,N/A
+1318,2019IN,2019,IN,Indiana,Native,N/A
+1319,2019IN,2019,IN,Indiana,Other,N/A
+1320,2019KS,2019,KS,Kansas,Black,0.0
+1321,2019KS,2019,KS,Kansas,White,0.0
+1322,2019KS,2019,KS,Kansas,Asian,N/A
+1323,2019KS,2019,KS,Kansas,Hispanic,N/A
+1324,2019KS,2019,KS,Kansas,Native,N/A
+1325,2019KS,2019,KS,Kansas,Other,N/A
+1326,2019KY,2019,KY,Kentucky,Black,0.0
+1327,2019KY,2019,KY,Kentucky,White,0.0
+1328,2019KY,2019,KY,Kentucky,Asian,N/A
+1329,2019KY,2019,KY,Kentucky,Hispanic,N/A
+1330,2019KY,2019,KY,Kentucky,Native,N/A
+1331,2019KY,2019,KY,Kentucky,Other,N/A
+1332,2019LA,2019,LA,Louisiana,Black,0.17647058823529413
+1333,2019LA,2019,LA,Louisiana,White,0.0
+1334,2019LA,2019,LA,Louisiana,Asian,N/A
+1335,2019LA,2019,LA,Louisiana,Hispanic,N/A
+1336,2019LA,2019,LA,Louisiana,Native,N/A
+1337,2019LA,2019,LA,Louisiana,Other,N/A
+1338,2019MA,2019,MA,Massachusetts,Black,0.0
+1339,2019MA,2019,MA,Massachusetts,White,N/A
+1340,2019MA,2019,MA,Massachusetts,Asian,N/A
+1341,2019MA,2019,MA,Massachusetts,Hispanic,0.0
+1342,2019MA,2019,MA,Massachusetts,Native,N/A
+1343,2019MA,2019,MA,Massachusetts,Other,0.0
+1344,2019MD,2019,MD,Maryland,Black,0.1
+1345,2019MD,2019,MD,Maryland,White,0.0
+1346,2019MD,2019,MD,Maryland,Asian,N/A
+1347,2019MD,2019,MD,Maryland,Hispanic,0.0
+1348,2019MD,2019,MD,Maryland,Native,N/A
+1349,2019MD,2019,MD,Maryland,Other,N/A
+1350,2019ME,2019,ME,Maine,Black,N/A
+1351,2019ME,2019,ME,Maine,White,0.0
+1352,2019ME,2019,ME,Maine,Asian,N/A
+1353,2019ME,2019,ME,Maine,Hispanic,0.0
+1354,2019ME,2019,ME,Maine,Native,N/A
+1355,2019ME,2019,ME,Maine,Other,N/A
+1356,2019MI,2019,MI,Michigan,Black,0.3333333333333333
+1357,2019MI,2019,MI,Michigan,White,0.14285714285714285
+1358,2019MI,2019,MI,Michigan,Asian,N/A
+1359,2019MI,2019,MI,Michigan,Hispanic,0.0
+1360,2019MI,2019,MI,Michigan,Native,N/A
+1361,2019MI,2019,MI,Michigan,Other,N/A
+1362,2019MN,2019,MN,Minnesota,Black,0.0
+1363,2019MN,2019,MN,Minnesota,White,0.25
+1364,2019MN,2019,MN,Minnesota,Asian,0.0
+1365,2019MN,2019,MN,Minnesota,Hispanic,0.0
+1366,2019MN,2019,MN,Minnesota,Native,0.0
+1367,2019MN,2019,MN,Minnesota,Other,0.0
+1368,2019MO,2019,MO,Missouri,Black,0.0
+1369,2019MO,2019,MO,Missouri,White,0.16666666666666666
+1370,2019MO,2019,MO,Missouri,Asian,N/A
+1371,2019MO,2019,MO,Missouri,Hispanic,0.0
+1372,2019MO,2019,MO,Missouri,Native,N/A
+1373,2019MO,2019,MO,Missouri,Other,N/A
+1374,2019MS,2019,MS,Mississippi,Black,0.0
+1375,2019MS,2019,MS,Mississippi,White,0.0
+1376,2019MS,2019,MS,Mississippi,Asian,0.0
+1377,2019MS,2019,MS,Mississippi,Hispanic,N/A
+1378,2019MS,2019,MS,Mississippi,Native,N/A
+1379,2019MS,2019,MS,Mississippi,Other,N/A
+1380,2019MT,2019,MT,Montana,Black,N/A
+1381,2019MT,2019,MT,Montana,White,0.0
+1382,2019MT,2019,MT,Montana,Asian,N/A
+1383,2019MT,2019,MT,Montana,Hispanic,N/A
+1384,2019MT,2019,MT,Montana,Native,N/A
+1385,2019MT,2019,MT,Montana,Other,N/A
+1386,2019NC,2019,NC,North Carolina,Black,0.0
+1387,2019NC,2019,NC,North Carolina,White,0.05555555555555555
+1388,2019NC,2019,NC,North Carolina,Asian,N/A
+1389,2019NC,2019,NC,North Carolina,Hispanic,0.0
+1390,2019NC,2019,NC,North Carolina,Native,N/A
+1391,2019NC,2019,NC,North Carolina,Other,N/A
+1392,2019ND,2019,ND,North Dakota,Black,N/A
+1393,2019ND,2019,ND,North Dakota,White,N/A
+1394,2019ND,2019,ND,North Dakota,Asian,N/A
+1395,2019ND,2019,ND,North Dakota,Hispanic,N/A
+1396,2019ND,2019,ND,North Dakota,Native,N/A
+1397,2019ND,2019,ND,North Dakota,Other,N/A
+1398,2019NE,2019,NE,Nebraska,Black,0.0
+1399,2019NE,2019,NE,Nebraska,White,0.0
+1400,2019NE,2019,NE,Nebraska,Asian,N/A
+1401,2019NE,2019,NE,Nebraska,Hispanic,0.0
+1402,2019NE,2019,NE,Nebraska,Native,0.0
+1403,2019NE,2019,NE,Nebraska,Other,N/A
+1404,2019NH,2019,NH,New Hampshire,Black,N/A
+1405,2019NH,2019,NH,New Hampshire,White,0.0
+1406,2019NH,2019,NH,New Hampshire,Asian,N/A
+1407,2019NH,2019,NH,New Hampshire,Hispanic,N/A
+1408,2019NH,2019,NH,New Hampshire,Native,N/A
+1409,2019NH,2019,NH,New Hampshire,Other,N/A
+1410,2019NJ,2019,NJ,New Jersey,Black,0.16666666666666666
+1411,2019NJ,2019,NJ,New Jersey,White,0.0
+1412,2019NJ,2019,NJ,New Jersey,Asian,N/A
+1413,2019NJ,2019,NJ,New Jersey,Hispanic,0.0
+1414,2019NJ,2019,NJ,New Jersey,Native,N/A
+1415,2019NJ,2019,NJ,New Jersey,Other,N/A
+1416,2019NM,2019,NM,New Mexico,Black,N/A
+1417,2019NM,2019,NM,New Mexico,White,0.0
+1418,2019NM,2019,NM,New Mexico,Asian,N/A
+1419,2019NM,2019,NM,New Mexico,Hispanic,0.0
+1420,2019NM,2019,NM,New Mexico,Native,0.0
+1421,2019NM,2019,NM,New Mexico,Other,N/A
+1422,2019NV,2019,NV,Nevada,Black,0.0
+1423,2019NV,2019,NV,Nevada,White,0.0
+1424,2019NV,2019,NV,Nevada,Asian,N/A
+1425,2019NV,2019,NV,Nevada,Hispanic,0.25
+1426,2019NV,2019,NV,Nevada,Native,N/A
+1427,2019NV,2019,NV,Nevada,Other,N/A
+1428,2019NY,2019,NY,New York,Black,0.0
+1429,2019NY,2019,NY,New York,White,0.16666666666666666
+1430,2019NY,2019,NY,New York,Asian,N/A
+1431,2019NY,2019,NY,New York,Hispanic,0.0
+1432,2019NY,2019,NY,New York,Native,N/A
+1433,2019NY,2019,NY,New York,Other,N/A
+1434,2019OH,2019,OH,Ohio,Black,0.0
+1435,2019OH,2019,OH,Ohio,White,0.07692307692307693
+1436,2019OH,2019,OH,Ohio,Asian,N/A
+1437,2019OH,2019,OH,Ohio,Hispanic,N/A
+1438,2019OH,2019,OH,Ohio,Native,N/A
+1439,2019OH,2019,OH,Ohio,Other,0.0
+1440,2019OK,2019,OK,Oklahoma,Black,0.1
+1441,2019OK,2019,OK,Oklahoma,White,0.0
+1442,2019OK,2019,OK,Oklahoma,Asian,N/A
+1443,2019OK,2019,OK,Oklahoma,Hispanic,0.0
+1444,2019OK,2019,OK,Oklahoma,Native,0.5
+1445,2019OK,2019,OK,Oklahoma,Other,N/A
+1446,2019OR,2019,OR,Oregon,Black,0.0
+1447,2019OR,2019,OR,Oregon,White,0.0
+1448,2019OR,2019,OR,Oregon,Asian,N/A
+1449,2019OR,2019,OR,Oregon,Hispanic,0.5
+1450,2019OR,2019,OR,Oregon,Native,N/A
+1451,2019OR,2019,OR,Oregon,Other,N/A
+1452,2019PA,2019,PA,Pennsylvania,Black,0.0
+1453,2019PA,2019,PA,Pennsylvania,White,0.0
+1454,2019PA,2019,PA,Pennsylvania,Asian,N/A
+1455,2019PA,2019,PA,Pennsylvania,Hispanic,N/A
+1456,2019PA,2019,PA,Pennsylvania,Native,N/A
+1457,2019PA,2019,PA,Pennsylvania,Other,N/A
+1458,2019RI,2019,RI,Rhode Island,Black,N/A
+1459,2019RI,2019,RI,Rhode Island,White,N/A
+1460,2019RI,2019,RI,Rhode Island,Asian,N/A
+1461,2019RI,2019,RI,Rhode Island,Hispanic,N/A
+1462,2019RI,2019,RI,Rhode Island,Native,N/A
+1463,2019RI,2019,RI,Rhode Island,Other,N/A
+1464,2019SC,2019,SC,South Carolina,Black,0.0
+1465,2019SC,2019,SC,South Carolina,White,0.0
+1466,2019SC,2019,SC,South Carolina,Asian,N/A
+1467,2019SC,2019,SC,South Carolina,Hispanic,N/A
+1468,2019SC,2019,SC,South Carolina,Native,N/A
+1469,2019SC,2019,SC,South Carolina,Other,N/A
+1470,2019SD,2019,SD,South Dakota,Black,N/A
+1471,2019SD,2019,SD,South Dakota,White,0.0
+1472,2019SD,2019,SD,South Dakota,Asian,N/A
+1473,2019SD,2019,SD,South Dakota,Hispanic,N/A
+1474,2019SD,2019,SD,South Dakota,Native,0.0
+1475,2019SD,2019,SD,South Dakota,Other,N/A
+1476,2019TN,2019,TN,Tennessee,Black,0.1111111111111111
+1477,2019TN,2019,TN,Tennessee,White,0.0
+1478,2019TN,2019,TN,Tennessee,Asian,N/A
+1479,2019TN,2019,TN,Tennessee,Hispanic,N/A
+1480,2019TN,2019,TN,Tennessee,Native,N/A
+1481,2019TN,2019,TN,Tennessee,Other,N/A
+1482,2019TX,2019,TX,Texas,Black,0.14285714285714285
+1483,2019TX,2019,TX,Texas,White,0.13157894736842105
+1484,2019TX,2019,TX,Texas,Asian,0.0
+1485,2019TX,2019,TX,Texas,Hispanic,0.07692307692307693
+1486,2019TX,2019,TX,Texas,Native,N/A
+1487,2019TX,2019,TX,Texas,Other,N/A
+1488,2019UT,2019,UT,Utah,Black,0.0
+1489,2019UT,2019,UT,Utah,White,0.16666666666666666
+1490,2019UT,2019,UT,Utah,Asian,N/A
+1491,2019UT,2019,UT,Utah,Hispanic,0.0
+1492,2019UT,2019,UT,Utah,Native,N/A
+1493,2019UT,2019,UT,Utah,Other,N/A
+1494,2019VA,2019,VA,Virginia,Black,0.0
+1495,2019VA,2019,VA,Virginia,White,0.0
+1496,2019VA,2019,VA,Virginia,Asian,N/A
+1497,2019VA,2019,VA,Virginia,Hispanic,N/A
+1498,2019VA,2019,VA,Virginia,Native,N/A
+1499,2019VA,2019,VA,Virginia,Other,N/A
+1500,2019VT,2019,VT,Vermont,Black,N/A
+1501,2019VT,2019,VT,Vermont,White,0.0
+1502,2019VT,2019,VT,Vermont,Asian,N/A
+1503,2019VT,2019,VT,Vermont,Hispanic,N/A
+1504,2019VT,2019,VT,Vermont,Native,N/A
+1505,2019VT,2019,VT,Vermont,Other,N/A
+1506,2019WA,2019,WA,Washington,Black,0.0
+1507,2019WA,2019,WA,Washington,White,0.09090909090909091
+1508,2019WA,2019,WA,Washington,Asian,0.5
+1509,2019WA,2019,WA,Washington,Hispanic,0.125
+1510,2019WA,2019,WA,Washington,Native,0.0
+1511,2019WA,2019,WA,Washington,Other,N/A
+1512,2019WI,2019,WI,Wisconsin,Black,0.0
+1513,2019WI,2019,WI,Wisconsin,White,0.1
+1514,2019WI,2019,WI,Wisconsin,Asian,0.0
+1515,2019WI,2019,WI,Wisconsin,Hispanic,0.0
+1516,2019WI,2019,WI,Wisconsin,Native,N/A
+1517,2019WI,2019,WI,Wisconsin,Other,N/A
+1518,2019WV,2019,WV,West Virginia,Black,0.0
+1519,2019WV,2019,WV,West Virginia,White,0.1111111111111111
+1520,2019WV,2019,WV,West Virginia,Asian,0.0
+1521,2019WV,2019,WV,West Virginia,Hispanic,N/A
+1522,2019WV,2019,WV,West Virginia,Native,N/A
+1523,2019WV,2019,WV,West Virginia,Other,N/A
+1524,2019WY,2019,WY,Wyoming,Black,N/A
+1525,2019WY,2019,WY,Wyoming,White,N/A
+1526,2019WY,2019,WY,Wyoming,Asian,N/A
+1527,2019WY,2019,WY,Wyoming,Hispanic,N/A
+1528,2019WY,2019,WY,Wyoming,Native,0.0
+1529,2019WY,2019,WY,Wyoming,Other,N/A
